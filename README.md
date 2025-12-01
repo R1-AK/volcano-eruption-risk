@@ -9,6 +9,8 @@
 **Challenge Focus:** Geospatial AI application leveraging TerraMind's multi-modal generative capabilities  
 **Innovation:** First system to integrate TerraMind's "Thinking-in-Modalities" for volcano hazard mapping 
 
+**Github of this project:** https://github.com/R1-AK/volcano-eruption-risk
+**Demo:** [https://06ewkubmpqbio8cl.public.blob.vercel-storage.com](https://volcano-risk-aqiaxz6y2-riskakuswatis-projects.vercel.app/)
 
 
 ![Picture2](https://cdn-uploads.huggingface.co/production/uploads/6858d3a6a59f871315999b21/3ZHUM-RHcrR97n0uYdapQ.jpeg)
@@ -407,6 +409,7 @@ Challenge: Volcano covered in clouds 80% of year
 Riska Aprilia Kuswati is a geospatial researcher (currently working in Monash University, Indonesia) with a focus on climate change, energy transition, and natural capital analysis. Her research integrates AI and machine learning to enhance geospatial analyses, addressing global environmental challenges, particularly mining impacts.
 
 **Contact:** 
+- email: riska.kuswati@monash.edu
 - https://r1-ak.github.io
 - https://orcid.org/0009-0006-8332-5514
 - https://scholar.google.com/citations?user=5mB_S4IAAAAJ&hl=en&authuser=1
