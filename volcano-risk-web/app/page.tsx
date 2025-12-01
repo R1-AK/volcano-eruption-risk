@@ -5,6 +5,7 @@ import mapboxgl from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 
 mapboxgl.accessToken = process.env.NEXT_PUBLIC_MAPBOX_TOKEN || "";
+const BLOB_BASE_URL = process.env.NEXT_PUBLIC_BLOB_URL || '';
 
 // Types
 interface VolcanoProperties {
@@ -535,8 +536,8 @@ export default function VolcanoDashboard() {
     volcanoName: string
   ) => {
     const safeName = volcanoName.replace(/ /g, "_").replace(/\//g, "_");
-    const riverUrl = `/rivers/${safeName}_rivers.geojson`;
-    const waterUrl = `/rivers/${safeName}_water.geojson`;
+    const riverUrl = `${BLOB_BASE_URL}/rivers/${safeName}_rivers.geojson`;
+    const waterUrl = `${BLOB_BASE_URL}/rivers/${safeName}_water.geojson`;
 
     const layersToRemove = [
       "hydrosheds-rivers-glow",
@@ -630,10 +631,11 @@ export default function VolcanoDashboard() {
           }
         }, "volcano-points");
 
+        console.log('✅ Rivers loaded from Blob');
         return;
       }
     } catch (e: any) {
-      console.error(`Error loading HydroSHEDS rivers:`, e.message);
+      console.log(`ℹ️ No HydroSHEDS rivers found for ${volcanoName}`);
     }
 
     try {
@@ -661,111 +663,108 @@ export default function VolcanoDashboard() {
           }
         }, "volcano-points");
 
+        console.log('✅ Water bodies loaded from Blob');
         return;
       }
     } catch (e: any) {
-      console.error(`Error loading JRC water bodies:`, e.message);
+      console.log(`ℹ️ No water bodies found for ${volcanoName}`);
     }
   };
 
   const loadRasters = async (
-    map: mapboxgl.Map,
-    volcanoName: string,
-    lat: number,
-    lng: number,
-    radiusKm: number
-  ) => {
-    const safeName = volcanoName.replace(/ /g, "_").replace(/\//g, "_");
+  map: mapboxgl.Map,
+  volcanoName: string,
+  lat: number,
+  lng: number,
+  radiusKm: number
+) => {
+  console.log(`🔍 Loading rasters for: ${volcanoName}`);
+  
+  try {
+    // Load the raster mapping
+    const mappingRes = await fetch('/data/raster-mapping.json');
+    const mapping = await mappingRes.json();
     
-    // Define both possible directories
-    const directories = [
-      '/rasters/',          // original directory
-      '/rasters_multimodal/' // new multimodal directory
-    ];
+    const volcanoMapping = mapping[volcanoName];
     
-    // Try both directories for DEM
-    let demUrl = '';
-    let hasDEM = false;
-    
-    for (const dir of directories) {
-      const testUrl = `${dir}${safeName}_DEM.png`;
-      try {
-        const head = await fetch(testUrl, { method: "HEAD" });
-        if (head.ok) {
-          demUrl = testUrl;
-          hasDEM = true;
-          break;
-        }
-      } catch (e) {
-        // Continue to next directory
-        continue;
-      }
+    if (!volcanoMapping) {
+      console.log(`⚠️ No raster mapping found for: ${volcanoName}`);
+      return;
     }
     
-    // Try both directories for LULC
-    let lulcUrl = '';
-    let hasLULC = false;
+    const demUrl = volcanoMapping.DEM;
+    const lulcUrl = volcanoMapping.LULC;
     
-    for (const dir of directories) {
-      const testUrl = `${dir}${safeName}_LULC.png`;
-      try {
-        const head = await fetch(testUrl, { method: "HEAD" });
-        if (head.ok) {
-          lulcUrl = testUrl;
-          hasLULC = true;
-          break;
-        }
-      } catch (e) {
-        // Continue to next directory
-        continue;
-      }
-    }
-    
-    if (!hasDEM && !hasLULC) return;
+    console.log(`📦 DEM URL: ${demUrl}`);
+    console.log(`📦 LULC URL: ${lulcUrl}`);
 
     const delta = radiusKm / 111.0;
-    const corners: [number, number][] = [
+    
+    const coordinates: [[number, number], [number, number], [number, number], [number, number]] = [
       [lng - delta, lat + delta],
       [lng + delta, lat + delta],
       [lng + delta, lat - delta],
       [lng - delta, lat - delta],
     ];
 
+    // Remove existing layers/sources
     if (map.getLayer("dem-image-layer")) map.removeLayer("dem-image-layer");
     if (map.getSource("dem-image")) map.removeSource("dem-image");
     if (map.getLayer("lulc-image-layer")) map.removeLayer("lulc-image-layer");
     if (map.getSource("lulc-image")) map.removeSource("lulc-image");
 
-    if (hasDEM && demUrl) {
-      map.addSource("dem-image", {
-        type: "image",
-        url: demUrl,
-        coordinates: corners,
-      });
-      map.addLayer({
-        id: "dem-image-layer",
-        type: "raster",
-        source: "dem-image",
-        paint: { "raster-opacity": 0.7 },
-        layout: { visibility: showDEM ? "visible" : "none" },
-      }, "volcano-points");
+    // Load DEM if available
+    if (demUrl) {
+      console.log(`📦 Loading DEM layer from: ${demUrl}`);
+      
+      try {
+        map.addSource("dem-image", {
+          type: "image",
+          url: demUrl,
+          coordinates: coordinates,
+        });
+        map.addLayer({
+          id: "dem-image-layer",
+          type: "raster",
+          source: "dem-image",
+          paint: { "raster-opacity": 0.7 },
+          layout: { visibility: showDEM ? "visible" : "none" },
+        }, "volcano-points");
+        console.log(`✅ DEM layer added`);
+      } catch (error) {
+        console.log(`❌ Error loading DEM:`, error);
+      }
     }
 
-    if (hasLULC && lulcUrl) {
-      map.addSource("lulc-image", {
-        type: "image",
-        url: lulcUrl,
-        coordinates: corners,
-      });
-      map.addLayer({
-        id: "lulc-image-layer",
-        type: "raster",
-        source: "lulc-image",
-        paint: { "raster-opacity": 0.6 },
-        layout: { visibility: showLULC ? "visible" : "none" },
-      }, "volcano-points");
+    // Load LULC if available
+    if (lulcUrl) {
+      console.log(`📦 Loading LULC layer from: ${lulcUrl}`);
+      
+      try {
+        map.addSource("lulc-image", {
+          type: "image",
+          url: lulcUrl,
+          coordinates: coordinates,
+        });
+        map.addLayer({
+          id: "lulc-image-layer",
+          type: "raster",
+          source: "lulc-image",
+          paint: { "raster-opacity": 0.6 },
+          layout: { visibility: showLULC ? "visible" : "none" },
+        }, "volcano-points");
+        console.log(`✅ LULC layer added`);
+      } catch (error) {
+        console.log(`❌ Error loading LULC:`, error);
+      }
     }
-  };
+    
+    console.log('✅ Raster loading completed');
+    
+  } catch (error) {
+    console.log('❌ Error in loadRasters:', error);
+  }
+};
 
   if (loading) {
     return (
