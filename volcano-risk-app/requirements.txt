@@ -1,0 +1,11 @@
+numpy
+pandas
+xarray
+rioxarray
+pystac-client
+planetary-computer
+terratorch==1.1.1
+torch
+streamlit
+streamlit-folium
+folium
