@@ -10,6 +10,7 @@
 **Innovation:** First system to integrate TerraMind's "Thinking-in-Modalities" for volcano hazard mapping 
 
 **Github of this project:** https://github.com/R1-AK/volcano-eruption-risk
+
 **Demo:** [https://06ewkubmpqbio8cl.public.blob.vercel-storage.com](https://volcano-risk-aqiaxz6y2-riskakuswatis-projects.vercel.app/)
 
 
