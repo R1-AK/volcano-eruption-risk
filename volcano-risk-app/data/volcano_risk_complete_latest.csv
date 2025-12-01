@@ -1,0 +1,139 @@
+volcano_name,latitude,longitude,error,status
+Vesuvius,40.821,14.426,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Ararat,39.7,44.3,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Menengai,-0.2,36.07,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Tongariro,-39.157,175.632,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Ruapehu,-39.28,175.57,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Tangaroa,-36.321,178.028,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Late,-18.806,-174.65,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Lolobau,-4.9156,151.1617,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Sessagara Hills,-9.5542,149.1278,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Billy Mitchell,-6.0898,155.2254,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Bagana,-6.137,155.196,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Sorikmarapi,0.6834,99.5409,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Tangkuban Parahu,-6.77,107.6,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Sundoro,-7.3014,109.997,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Soputan,1.112,124.737,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Lokon-Empung,1.3644,124.7992,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Makaturing,7.644,124.317,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Ragang,7.691,124.507,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Cabalían,10.285,125.218,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Harunasan,36.477,138.851,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Rausudake,44.076,145.122,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Sashiusudake [Baransky],45.103,148.0148,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Kharimkotan,49.12,154.508,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Barkhatnaya Sopka,52.802,158.24,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Koryaksky,53.321,158.712,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Vsevidof,53.1264,-168.6875,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Makushin,53.891,-166.923,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Kukak,58.453,-154.355,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+San Francisco Volcanic Field,35.347,-111.678,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Ilopango,13.672,-89.053,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+San Miguel,13.434,-88.269,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Yojoa, Lago",14.964,-87.983,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Cosiguina,12.98,-87.57,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+San Cristobal,12.702,-87.004,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Telica,12.606,-86.84,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Negro, Cerro",12.506,-86.702,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Las Pilas-El Hoyo Complex,12.4922,-86.6786,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Momotombo,12.423,-86.539,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Apoyeque,12.242,-86.342,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Nejapa-Miraflores,12.12,-86.32,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Masaya,11.9844,-86.1688,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Mombacho,11.826,-85.968,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Concepcion,11.538,-85.622,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Rincon de la Vieja,10.8314,-85.3364,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Miravalles,10.748,-85.153,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Arenal,10.463,-84.703,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Poas,10.2,-84.233,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Barva,10.135,-84.1,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Irazu,9.979,-83.852,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Turrialba,10.025,-83.767,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Baru,8.808,-82.543,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Romeral,5.203,-75.363,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Bravo, Cerro",5.091,-75.293,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Ruiz, Nevado del",4.892,-75.324,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Santa Isabel,4.818,-75.365,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Tolima, Nevado del",4.658,-75.33,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Machin,4.487,-75.389,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Huila, Nevado del",2.93,-76.03,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Purace,2.3095,-76.3948,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Dona Juana,1.5,-76.936,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Galeras,1.22,-77.37,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Azufral,1.08,-77.68,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Cumbal,0.95,-77.87,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Soche,0.552,-77.58,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Chachimbiro,0.468,-78.287,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Cuicocha,0.308,-78.364,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Imbabura,0.258,-78.183,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Cayambe,0.029,-77.986,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Reventador,-0.077,-77.656,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Pululahua,0.0464,-78.49,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Guagua Pichincha,-0.171,-78.598,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Atacazo,-0.353,-78.617,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Chacana,-0.375,-78.25,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Antisana,-0.481,-78.141,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Aliso,-0.53,-78.0,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Cotopaxi,-0.677,-78.436,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Quilotoa,-0.8592,-78.9044,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Chimborazo,-1.469,-78.817,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Tungurahua,-1.467,-78.442,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Sangay,-2.005,-78.341,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Fernandina,-0.37,-91.55,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Ecuador,-0.02,-91.546,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Wolf,0.02,-91.35,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Darwin,-0.18,-91.28,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Alcedo,-0.43,-91.12,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Negra, Sierra",-0.83,-91.17,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Azul, Cerro",-0.92,-91.408,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Pinta,0.5858,-90.7553,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Marchena,0.33,-90.47,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Santiago,-0.22,-90.77,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Quimsachata-Oroscocha,-14.131,-71.363,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Andahua-Orcopampa,-15.42,-72.33,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Huambo,-15.78,-72.08,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Sabancaya,-15.787,-71.857,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Misti, El",-16.2991,-71.4056,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Ubinas,-16.345,-70.8972,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Huaynaputina,-16.6144,-70.8542,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Ticsani,-16.7586,-70.5981,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Tutupaca,-17.026,-70.372,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Yucamane,-17.184,-70.196,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Taapaca,-18.1,-69.5,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Parinacota,-18.166,-69.142,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Guallatiri,-18.42,-69.092,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Isluga,-19.15,-68.83,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Irruputuncu,-20.73,-68.55,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Olca-Paruma,-20.939,-68.413,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Putana,-22.557,-67.853,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Lascar,-23.37,-67.73,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Socompa,-24.396,-68.246,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Llullaillaco,-24.72,-68.53,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Ojos del Salado, Nevados",-27.109,-68.541,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Blanco, Cerro",-26.7657,-67.746,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Tupungatito,-33.425,-69.797,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+San Jose,-33.789,-69.895,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Maipo,-34.164,-69.832,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Tinguiririca,-34.814,-70.352,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Planchon-Peteroa,-35.223,-70.568,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Infiernillo,-35.123,-69.9,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Descabezado Grande,-35.58,-70.75,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Azul, Cerro",-35.653,-70.761,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Maule, Laguna del",-36.058,-70.492,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Longavi, Nevado de",-36.1959,-71.1641,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Payun Matru,-36.422,-69.241,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+"Chillan, Nevados de",-36.868,-71.378,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Tromen Volcanic Plateau,-37.144,-70.033,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Antuco,-37.406,-71.349,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Copahue,-37.856,-71.183,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Callaqui,-37.92,-71.45,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Lonquimay,-38.379,-71.586,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Llaima,-38.692,-71.729,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Sollipulli,-38.97,-71.52,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Saba,17.63,-63.23,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Liamuiga,17.37,-62.8,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Tjornes Fracture Zone,66.309,-17.118,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+La Palma,28.57,-17.83,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Buckle Island,-66.78,163.25,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Bristol Island,-59.017,-26.533,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED
+Candlemas Island,-57.08,-26.67,Pre-computed data not found. Run export_dem_lulc.py first.,FAILED

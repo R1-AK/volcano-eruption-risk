@@ -1,0 +1,1230 @@
+id,name,country,latitude,longitude,status,last_eruption_year
+210010,West Eifel Volcanic Field,Germany,50.17,6.85,Eruption Dated,8300 BCE
+210020,Chaine des Puys,France,45.786,2.981,Eruption Dated,4040 BCE
+210030,Olot Volcanic Field,Spain,42.17,2.53,Evidence Credible,Unknown
+210040,Calatrava Volcanic Field,Spain,38.87,-4.02,Eruption Dated,3600 BCE
+211004,Colli Albani,Italy,41.7569,12.7251,Evidence Uncertain,Unknown
+211010,Campi Flegrei,Italy,40.827,14.139,Eruption Observed,1538 CE
+211020,Vesuvius,Italy,40.821,14.426,Eruption Observed,1944 CE
+211030,Ischia,Italy,40.73,13.897,Eruption Observed,1302 CE
+211031,Palinuro,Italy,39.48,14.83,Eruption Dated,8040 BCE
+211040,Stromboli,Italy,38.789,15.213,Eruption Observed,2025 CE
+211041,Panarea,Italy,38.638,15.064,Evidence Uncertain,Unknown
+211042,Lipari,Italy,38.49,14.933,Eruption Dated,1230 CE
+211050,Vulcano,Italy,38.404,14.962,Eruption Observed,1890 CE
+211060,Etna,Italy,37.748,14.999,Eruption Observed,2025 CE
+211070,Campi Flegrei del Mar di Sicilia,Italy,37.1,12.7,Eruption Observed,1867 CE
+211071,Pantelleria,Italy,36.77,12.02,Eruption Observed,1891 CE
+211080,Marsili,Italy,39.284,14.399,Eruption Dated,1050 BCE
+212020,Methana,Greece,37.6186,23.3331,Eruption Observed,258 BCE
+212030,Milos,Greece,36.699,24.439,Eruption Dated,140 CE
+212040,Santorini,Greece,36.404,25.396,Eruption Observed,1950 CE
+212042,Kolumbo,Greece,36.524,25.483,Eruption Dated,1650 CE
+212050,Nisyros,Greece,36.5888,27.1553,Eruption Observed,1888 CE
+213000,Kula,Turkiye,38.58,28.52,Evidence Credible,Unknown
+213002,Hasandag-Keciboyduran Volcanic Complex,Turkiye,38.13,34.17,Evidence Credible,Unknown
+213010,Erciyes Volcanic Complex,Turkiye,38.531,35.447,Eruption Dated,6880 BCE
+213011,Karaca Dag,Turkiye,37.67,39.83,Evidence Credible,Unknown
+213020,Nemrut Dagi,Turkiye,38.654,42.229,Eruption Observed,1650 CE
+213030,Tenduruk Dagi,Turkiye,39.356,43.874,Eruption Observed,1855 CE
+213040,Ararat,Turkiye,39.7,44.3,Eruption Observed,1840 CE
+214010,Elbrus,Russia,43.351,42.442,Eruption Dated,50 CE
+214020,Kazbek,Georgia,42.697,44.5184,Eruption Dated,750 BCE
+214050,Samsari Volcanic Center,Georgia,41.542,43.7,Evidence Uncertain,Unknown
+214060,Aragats,Armenia,40.53,44.2,Evidence Credible,Unknown
+214070,Ghegham Volcanic Ridge,Armenia,40.283,45,Eruption Dated,1900 BCE
+214080,Vaiyots-Sar,Armenia,39.797,45.497,Eruption Dated,2000 BCE
+214090,Porak,Armenia-Azerbaijan,40.028,45.74,Eruption Dated,778 BCE
+214100,Tskhouk-Karckar,Armenia-Azerbaijan,39.742,45.992,Eruption Dated,3000 BCE
+221010,"Tair, Jebel at",Yemen,15.55,41.83,Eruption Observed,2008 CE
+221020,Zubair Group,Yemen,15.05,42.18,Eruption Observed,2013 CE
+221021,Zukur,Yemen,14.02,42.75,Evidence Credible,Unknown
+221022,Hanish,Yemen,13.72,42.73,Evidence Credible,Unknown
+221040,Alid,Eritrea,14.88,39.92,Evidence Credible,Unknown
+221041,Dallol,Ethiopia,14.242,40.3,Eruption Observed,2011 CE
+221050,Gada Ale,Ethiopia,13.975,40.408,Evidence Credible,Unknown
+221060,Alu-Dalafilla,Ethiopia,13.793,40.553,Eruption Observed,2008 CE
+221071,Bora Ale,Ethiopia,13.725,40.6,Evidence Credible,Unknown
+221080,Erta Ale,Ethiopia,13.601,40.666,Eruption Observed,2025 CE
+221090,Ale Bagu,Ethiopia,13.512,40.631,Evidence Credible,Unknown
+221091,Hayli Gubbi,Ethiopia,13.5111,40.7161,Evidence Credible,6250 BCE
+221100,Dubbi,Eritrea,13.579,41.809,Eruption Observed,1861 CE
+221101,Nabro,Eritrea,13.37,41.7,Eruption Observed,2012 CE
+221102,Mallahle,Ethiopia-Eritrea,13.27,41.65,Evidence Uncertain,Unknown
+221103,Sork Ale,Ethiopia-Eritrea,13.18,41.725,Evidence Uncertain,Unknown
+221104,Asavyo,Ethiopia,13.098,41.599,Evidence Credible,Unknown
+221105,Mat Ala,Ethiopia,13.106,41.161,Evidence Credible,Unknown
+221106,Tat Ali,Ethiopia,13.284,41.063,Evidence Credible,Unknown
+221107,Borawli,Ethiopia,13.304,40.987,Evidence Credible,Unknown
+221110,Afdera,Ethiopia,13.088,40.853,Evidence Uncertain,Unknown
+221111,Ma Alalta,Ethiopia,13.013,40.185,Evidence Credible,Unknown
+221112,Alayta,Ethiopia,12.888,40.573,Eruption Observed,1915 CE
+221113,Dabbahu,Ethiopia,12.595,40.48,Eruption Observed,2005 CE
+221114,Dabbayra,Ethiopia,12.38,40.07,Evidence Credible,Unknown
+221115,Manda Hararo,Ethiopia,12.17,40.82,Eruption Observed,2009 CE
+221116,Groppo,Ethiopia,11.816,40.242,Evidence Credible,Unknown
+221120,Kurub,Ethiopia,11.88,41.208,Evidence Credible,Unknown
+221122,Manda-Inakir,Ethiopia-Djibouti,12.38,42.2,Eruption Observed,1928 CE
+221123,Mousa Alli,Ethiopia-Eritrea-Djibouti,12.469,42.404,Evidence Credible,Unknown
+221124,Gufa,Eritrea-Djibouti,12.55,42.53,Evidence Credible,Unknown
+221125,Assab Volcanic Field,Eritrea,12.95,42.43,Evidence Credible,Unknown
+221126,Ardoukoba,Djibouti,11.58,42.47,Eruption Observed,1978 CE
+221127,Manda Gargori,Ethiopia,11.75,41.48,Evidence Credible,Unknown
+221141,Dama Ali,Ethiopia,11.28,41.63,Eruption Observed,1631 CE
+221150,Gabillema,Ethiopia,11.08,41.27,Evidence Credible,Unknown
+221151,Yangudi,Ethiopia,10.58,41.042,Evidence Credible,Unknown
+221160,Ayelu,Ethiopia,10.082,40.702,Evidence Credible,Unknown
+221170,Adwa,Ethiopia,10.063,40.831,Evidence Credible,Unknown
+221171,Hertali,Ethiopia,9.78,40.33,Evidence Credible,Unknown
+221172,Liado Hayk,Ethiopia,9.57,40.28,Evidence Uncertain,Unknown
+221180,Dofen,Ethiopia,9.35,40.13,Evidence Credible,Unknown
+221190,Fentale,Ethiopia,8.985,39.906,Eruption Observed,1789 CE
+221191,Beru,Ethiopia,8.95,39.75,Evidence Credible,Unknown
+221200,Kone,Ethiopia,8.8105,39.6946,Eruption Observed,1820 CE
+221210,Boset,Ethiopia,8.558,39.475,Evidence Credible,Unknown
+221220,Bishoftu Volcanic Field,Ethiopia,8.78,38.98,Evidence Credible,Unknown
+221222,Melkassa,Ethiopia,8.43,39.35,Evidence Credible,Unknown
+221230,Gedemsa,Ethiopia,8.363,39.172,Evidence Credible,Unknown
+221250,Bora-Bericha-Tullu Moye,Ethiopia,8.2114,39.0812,Eruption Observed,1900 CE
+221251,Unnamed,Ethiopia,8.013,39.062,Evidence Credible,Unknown
+221252,East Ziway,Ethiopia,7.874,38.902,Evidence Credible,Unknown
+221260,Butajiri-Silti Field,Ethiopia,8.05,38.35,Evidence Credible,Unknown
+221270,Aluto,Ethiopia,7.77,38.78,Eruption Dated,1550 CE
+221280,Shala,Ethiopia,7.4569,38.5571,Evidence Credible,Unknown
+221290,Corbetti,Ethiopia,7.193,38.39,Evidence Credible,396 BCE
+221291,Bilate River Field,Ethiopia,7.07,38.1,Unrest / Holocene,Unknown
+221294,Northern Lake Abaya Volcanic Field,Ethiopia,6.76,37.97,Evidence Credible,Unknown
+221320,Korath Range,Ethiopia,5.117,35.892,Evidence Uncertain,Unknown
+221330,Mega Volcanic Field,Ethiopia,3.971,38.213,Evidence Credible,Unknown
+222001,Lake Turkana North Island,Kenya,4.0631,36.0458,Evidence Credible,Unknown
+222010,Lake Turkana Central Island,Kenya,3.496,36.0365,Evidence Credible,Unknown
+222020,Lake Turkana South Island,Kenya,2.6364,36.5958,Eruption Observed,1888 CE
+222021,Marsabit,Kenya,2.32,37.97,Evidence Uncertain,Unknown
+222030,"Barrier, The",Kenya,2.32,36.57,Eruption Observed,1921 CE
+222040,Namarunu,Kenya,1.98,36.43,Eruption Dated,6550 BCE
+222050,Segererua Plateau,Kenya,1.57,37.9,Evidence Credible,Unknown
+222051,Emuruangogolak,Kenya,1.5,36.33,Eruption Dated,1910 CE
+222052,Silali,Kenya,1.15,36.23,Eruption Dated,5050 BCE
+222053,Paka,Kenya,0.92,36.18,Eruption Dated,7550 BCE
+222054,Korosi,Kenya,0.77,36.12,Evidence Credible,Unknown
+222055,Ol Kokwe,Kenya,0.62,36.075,Evidence Credible,Unknown
+222056,Nyambeni Hills,Kenya,0.23,37.87,Evidence Credible,Unknown
+222060,Menengai,Kenya,-0.2,36.07,Eruption Dated,6050 BCE
+222070,Homa Mountain,Kenya,-0.38,34.5,Evidence Credible,Unknown
+222071,Elmenteita Badlands,Kenya,-0.546,36.249,Evidence Credible,Unknown
+222080,"Eburru, Ol Doinyo",Kenya,-0.65,36.22,Evidence Credible,Unknown
+222090,Olkaria,Kenya,-0.904,36.292,Eruption Dated,1770 CE
+222100,Longonot,Kenya,-0.914,36.446,Eruption Dated,1863 CE
+222110,Suswa,Kenya,-1.151,36.357,Evidence Credible,Unknown
+222120,"Lengai, Ol Doinyo",Tanzania,-2.764,35.914,Eruption Observed,2025 CE
+222130,Chyulu Hills,Kenya,-2.68,37.88,Eruption Dated,1855 CE
+222160,Meru,Tanzania,-3.244,36.75,Eruption Observed,1910 CE
+222161,Igwisi Hills,Tanzania,-4.889,31.933,Eruption Dated,10450 BCE
+222164,Ngozi,Tanzania,-9.0036,33.552,Eruption Dated,1450 CE
+222166,Rungwe,Tanzania,-9.135,33.668,Eruption Dated,1250 CE
+222170,Kyejo,Tanzania,-9.229,33.792,Eruption Observed,1800 CE
+223001,Fort Portal,Uganda,0.7,30.25,Eruption Dated,2120 BCE
+223002,Kyatwa,Uganda,0.45,30.25,Evidence Uncertain,Unknown
+223003,Katwe-Kikorongo,Uganda,-0.08,29.92,Evidence Credible,Unknown
+223004,Bunyaruguru,Uganda,-0.2,30.08,Evidence Credible,Unknown
+223005,Katunga,Uganda,-0.471,30.191,Evidence Credible,Unknown
+223020,Nyamulagira,DR Congo,-1.408,29.2,Eruption Observed,2025 CE
+223030,Nyiragongo,DR Congo,-1.52,29.25,Eruption Observed,2025 CE
+223040,Karisimbi,DR Congo-Rwanda,-1.506,29.45,Eruption Dated,8050 BCE
+223050,Visoke,DR Congo-Rwanda,-1.458,29.485,Eruption Observed,1957 CE
+223060,Muhavura,Uganda-Rwanda,-1.383,29.678,Evidence Credible,Unknown
+223070,Bufumbira,Uganda,-1.304,29.683,Evidence Uncertain,Unknown
+224004,"Basile, Pico",Equatorial Guinea,3.588,8.762,Eruption Observed,1923 CE
+224010,Cameroon,Cameroon,4.203,9.17,Eruption Observed,2000 CE
+224011,Tombel Graben,Cameroon,4.758,9.717,Evidence Credible,Unknown
+224030,Oku Volcanic Field,Cameroon,6.25,10.5,Evidence Uncertain,Unknown
+225001,Todra Volcanic Field,Niger,17.68,8.5,Evidence Credible,Unknown
+225004,Tahalra Volcanic Field,Algeria,22.67,5,Evidence Credible,Unknown
+225005,Atakor Volcanic Field,Algeria,23.33,5.83,Evidence Credible,Unknown
+225006,Manzaz Volcanic Field,Algeria,23.92,5.83,Evidence Credible,Unknown
+225009,"Toh, Tarso",Chad,21.33,16.33,Evidence Credible,Unknown
+225010,"Tousside, Tarso",Chad,21.0408,16.473,Evidence Credible,Unknown
+225020,"Voon, Tarso",Chad,20.92,17.28,Unrest / Holocene,Unknown
+225021,"Koussi, Emi",Chad,19.8,18.53,Evidence Credible,Unknown
+225030,"Marra, Jebel",Sudan,12.95,24.27,Eruption Dated,2000 BCE
+225040,Kutum Volcanic Field,Sudan,14.57,25.85,Evidence Uncertain,Unknown
+225050,Meidob Volcanic Field,Sudan,15.32,26.47,Eruption Dated,2950 BCE
+225060,Bayuda Volcanic Field,Sudan,18.33,32.75,Eruption Dated,850 CE
+231001,"Ash Shaam, Harrat",Syria-Jordan-Saudi Arabia,32.333,37.583,Eruption Observed,2670 BCE
+231040,"Lunayyir, Harrat",Saudi Arabia,25.17,37.75,Eruption Observed,1000 CE
+231050,"Ithnayn, Harrat",Saudi Arabia,26.58,40.2,Evidence Credible,Unknown
+231060,"Khaybar, Harrat",Saudi Arabia,25.5,40,Eruption Observed,650 CE
+231070,"Rahat, Harrat",Saudi Arabia,23.08,39.78,Eruption Observed,1256 CE
+231071,"Kishb, Harrat",Saudi Arabia,22.8,41.38,Evidence Credible,Unknown
+231072,"Birk, Harrat al",Saudi Arabia,18.37,41.63,Evidence Credible,Unknown
+231080,"Yar, Jabal",Saudi Arabia,17.05,42.83,Eruption Observed,1810 CE
+231090,"Arhab, Harra of",Yemen,15.6025,44.0978,Eruption Observed,500 CE
+231110,"Haylan, Jabal",Yemen,15.4,45.1,Eruption Dated,1200 BCE
+231120,"Dhamar, Harras of",Yemen,14.57,44.67,Eruption Observed,Unknown
+231160,"Sawad, Harra Es-",Yemen,13.58,46.12,Eruption Observed,1253 CE
+231170,Balhaf-Bir Ali Volcanic Field,Yemen,14.067,48.3,Evidence Credible,Unknown
+231180,Bir Borhut,Yemen,15.515,50.935,Evidence Uncertain,Unknown
+232010,Damavand,Iran,35.951,52.109,Eruption Dated,5350 BCE
+233001,"Grille, La",Union of the Comoros,-11.4861,43.35,Evidence Credible,Unknown
+233005,Mayotte,France,-12.83,45.17,Eruption Dated,2050 BCE
+233010,Karthala,Union of the Comoros,-11.7658,43.3639,Eruption Observed,2007 CE
+233020,"Fournaise, Piton de la",France,-21.244,55.708,Eruption Observed,2023 CE
+233040,Fani Maore,France,-12.9121,45.7075,Eruption Observed,2019 CE
+234000,Boomerang Seamount,France,-37.7216,77.8221,Eruption Dated,1995 CE
+234001,Amsterdam Island,France,-37.83,77.52,Evidence Credible,Unknown
+234002,St. Paul,France,-38.72,77.53,Eruption Observed,1793 CE
+234010,Heard,Australia,-53.106,73.513,Eruption Observed,2025 CE
+234011,McDonald Islands,Australia,-53.0394,72.595,Eruption Observed,2005 CE
+234020,Kerguelen Islands,France,-49.58,69.5,Evidence Uncertain,Unknown
+234030,"Est, Ile de l'",France,-46.43,52.2,Evidence Uncertain,Unknown
+234040,"Possession, Ile de la",France,-46.42,51.75,Evidence Credible,Unknown
+234050,"Cochons, Ile aux",France,-46.1,50.23,Evidence Credible,Unknown
+234060,Prince Edward Island,South Africa,-46.63,37.95,Evidence Credible,Unknown
+234070,Marion Island,South Africa,-46.9,37.75,Eruption Observed,2004 CE
+241020,Auckland Volcanic Field,New Zealand,-36.89,174.81,Eruption Dated,1446 CE
+241021,Tuhua/Mayor Island,New Zealand,-37.28,176.25,Eruption Dated,5055 BCE
+241030,Taranaki,New Zealand,-39.3,174.07,Eruption Observed,1800 CE
+241040,Whakaari/White Island,New Zealand,-37.52,177.18,Eruption Observed,2025 CE
+241050,Okataina,New Zealand,-38.1569,176.5069,Eruption Observed,1981 CE
+241070,Taupo,New Zealand,-38.7811,175.893,Eruption Dated,260 CE
+241080,Tongariro,New Zealand,-39.157,175.632,Eruption Observed,2012 CE
+241100,Ruapehu,New Zealand,-39.28,175.57,Eruption Observed,2007 CE
+241101,Clark,New Zealand,-36.446,177.839,Unrest / Holocene,Unknown
+241102,Tangaroa,New Zealand,-36.321,178.028,Unrest / Holocene,Unknown
+241110,Rumble V,New Zealand,-36.142,178.196,Unrest / Holocene,Unknown
+241120,Rumble IV,New Zealand,-36.13,178.05,Unrest / Holocene,Unknown
+241130,Rumble III,New Zealand,-35.745,178.478,Eruption Observed,2008 CE
+241131,Rumble II West,New Zealand,-35.353,178.527,Unrest / Holocene,Unknown
+241140,Healy,New Zealand,-35.004,178.973,Eruption Dated,1360 CE
+241150,Brothers,New Zealand,-34.875,179.0667,Unrest / Holocene,Unknown
+242001,Wright,New Zealand,-31.85,-179.18,Unrest / Holocene,Unknown
+242005,Havre Seamount,New Zealand,-31.08,-179.033,Eruption Observed,2012 CE
+242010,Curtis Island,New Zealand,-30.543,-178.556,Unrest / Holocene,Unknown
+242021,Macauley,New Zealand,-30.21,-178.475,Eruption Dated,4360 BCE
+242022,Giggenbach,New Zealand,-30.036,-178.712,Unrest / Holocene,Unknown
+242030,Raoul Island,New Zealand,-29.27,-177.92,Eruption Observed,2006 CE
+242050,Monowai,New Zealand,-25.887,-177.188,Eruption Observed,2014 CE
+243001,Unnamed,Tonga,-24.8,-177.02,Unrest / Holocene,Unknown
+243010,Unnamed,Tonga,-21.338,-175.65,Eruption Observed,1932 CE
+243011,Unnamed,Tonga,-21.15,-175.75,Evidence Credible,Unknown
+243030,Unnamed,Tonga,-20.852,-175.55,Eruption Observed,2017 CE
+243040,Hunga Tonga-Hunga Ha'apai,Tonga,-20.5532,-175.3841,Eruption Observed,2022 CE
+243050,Fonuafo'ou,Tonga,-20.32,-175.42,Eruption Observed,1936 CE
+243060,Tofua,Tonga,-19.75,-175.07,Eruption Observed,2025 CE
+243061,Kao,Tonga,-19.668,-175.016,Eruption Observed,1847 CE
+243070,Lateiki,Tonga,-19.18,-174.87,Eruption Observed,2019 CE
+243080,Home Reef,Tonga,-18.992,-174.775,Eruption Observed,2025 CE
+243090,Late,Tonga,-18.806,-174.65,Eruption Observed,1854 CE
+243091,Unnamed,Tonga,-18.325,-174.365,Eruption Observed,2019 CE
+243100,Fonualei,Tonga,-18.023,-174.317,Eruption Observed,1957 CE
+243101,Tafahi,Tonga,-15.854,-173.747,Evidence Uncertain,Unknown
+243102,Curacoa,Tonga,-15.62,-173.67,Eruption Observed,1979 CE
+243110,Niuafo'ou,Tonga,-15.6,-175.63,Eruption Observed,1946 CE
+243111,Dugong,Tonga,-15.431,-175.725,Evidence Uncertain,Unknown
+243112,Lobster,Tonga,-15.333,-176.283,Evidence Uncertain,Unknown
+243120,Tafu-Maka,Tonga,-15.37,-174.23,Eruption Observed,2008 CE
+243130,West Mata,Tonga,-15.1,-173.75,Eruption Observed,2009 CE
+243140,Niuatahi,Tonga,-15.3675,-174.0028,Unrest / Holocene,Unknown
+244000,Vailulu'u,United States,-14.215,-169.058,Eruption Observed,2003 CE
+244001,Ta'u,United States,-14.23,-169.454,Evidence Credible,Unknown
+244010,Ofu-Olosega,United States,-14.175,-169.618,Eruption Observed,1866 CE
+244020,Tutuila,United States,-14.2903,-170.7019,Eruption Dated,440 CE
+244021,Malumalu,United States,-14.601,-169.787,Evidence Credible,Unknown
+244030,Upolu,Samoa,-13.935,-171.72,Evidence Credible,Unknown
+244040,Savaii,Samoa,-13.612,-172.525,Eruption Observed,1911 CE
+245010,Taveuni,Fiji,-16.8412,-179.9644,Eruption Dated,1550 CE
+245030,Nabukelevu,Fiji,-19.1181,177.9815,Eruption Dated,1660 CE
+250010,St. Andrew Strait,Papua New Guinea,-2.38,147.35,Eruption Observed,1957 CE
+250030,Central Bismarck Sea,Papua New Guinea,-3.03,147.78,Eruption Dated,1972 CE
+251001,Blup Blup,Papua New Guinea,-3.507,144.605,Evidence Credible,Unknown
+251002,Kadovar,Papua New Guinea,-3.608,144.588,Evidence Credible,2023 CE
+251010,Bam,Papua New Guinea,-3.613,144.818,Eruption Observed,1960 CE
+251020,Manam,Papua New Guinea,-4.08,145.037,Eruption Observed,2025 CE
+251030,Karkar,Papua New Guinea,-4.647,145.976,Eruption Observed,1979 CE
+251041,Hankow Reef,Papua New Guinea,-4.883,146.717,Evidence Uncertain,Unknown
+251050,Long Island,Papua New Guinea,-5.3144,147.105,Eruption Observed,1993 CE
+251060,Umboi,Papua New Guinea,-5.592,147.892,Evidence Credible,Unknown
+251070,Ritter Island,Papua New Guinea,-5.519,148.115,Eruption Observed,2007 CE
+251080,Sakar,Papua New Guinea,-5.4098,148.0836,Evidence Uncertain,Unknown
+252010,Langila,Papua New Guinea,-5.525,148.42,Eruption Observed,2025 CE
+252040,Dakataua,Papua New Guinea,-5.0455,150.0996,Eruption Dated,1895 CE
+252050,Bola,Papua New Guinea,-5.141,150.038,Evidence Credible,Unknown
+252060,Garua Harbour,Papua New Guinea,-5.3,150.07,Evidence Uncertain,Unknown
+252070,Krummel-Garbuna-Welcker,Papua New Guinea,-5.416,150.027,Eruption Observed,2008 CE
+252071,Lolo,Papua New Guinea,-5.466,150.509,Evidence Uncertain,Unknown
+252080,Witori,Papua New Guinea,-5.5745,150.5161,Eruption Observed,2012 CE
+252090,Sulu Range,Papua New Guinea,-5.5,150.942,Unrest / Holocene,Unknown
+252100,Hargy,Papua New Guinea,-5.33,151.1,Eruption Dated,950 CE
+252110,Bamus,Papua New Guinea,-5.2,151.23,Eruption Observed,1886 CE
+252120,Ulawun,Papua New Guinea,-5.05,151.33,Eruption Observed,2025 CE
+252130,Lolobau,Papua New Guinea,-4.9156,151.1617,Eruption Observed,1912 CE
+252140,Rabaul,Papua New Guinea,-4.2459,152.1937,Eruption Observed,2014 CE
+252150,Tavui,Papua New Guinea,-4.1089,152.2134,Eruption Dated,4946 BCE
+253010,Lamington,Papua New Guinea,-8.95,148.15,Eruption Observed,1956 CE
+253011,Hydrographers Range,Papua New Guinea,-9,148.37,Evidence Credible,Unknown
+253021,Managlase Plateau,Papua New Guinea,-9.08,148.33,Evidence Credible,Unknown
+253030,Victory,Papua New Guinea,-9.2003,149.072,Eruption Observed,1935 CE
+253040,Sessagara Hills,Papua New Guinea,-9.5542,149.1278,Eruption Observed,1944 CE
+253041,Goodenough,Papua New Guinea,-9.358,150.246,Evidence Credible,Unknown
+253050,Iamalele,Papua New Guinea,-9.5056,150.5239,Evidence Credible,Unknown
+253060,Dawson Strait Group,Papua New Guinea,-9.62,150.88,Eruption Dated,1350 CE
+255010,Balbi,Papua New Guinea,-5.9156,155.0008,Evidence Credible,Unknown
+255011,Billy Mitchell,Papua New Guinea,-6.0898,155.2254,Eruption Dated,1580 CE
+255020,Bagana,Papua New Guinea,-6.137,155.196,Eruption Observed,2025 CE
+255021,Takuan Group,Papua New Guinea,-6.442,155.608,Evidence Credible,Unknown
+255030,Loloru,Papua New Guinea,-6.52,155.62,Eruption Dated,1050 BCE
+255050,Simbo,Solomon Islands,-8.292,156.52,Eruption Dated,1910 CE
+255052,Kana Keoki,Solomon Islands,-8.75,157.03,Evidence Credible,Unknown
+255053,Coleman Seamount,Solomon Islands,-8.841,157.16,Evidence Credible,Unknown
+255060,Kavachi,Solomon Islands,-8.991,157.979,Eruption Observed,2014 CE
+255061,New Georgia at 8.9°S,Solomon Islands,-8.92,158.03,Evidence Credible,Unknown
+255070,Savo,Solomon Islands,-9.1324,159.8119,Eruption Observed,1847 CE
+256010,Tinakula,Solomon Islands,-10.386,165.804,Eruption Observed,2024 CE
+257001,Motlav,Vanuatu,-13.67,167.67,Evidence Credible,Unknown
+257010,Suretamatai,Vanuatu,-13.8,167.47,Eruption Observed,1966 CE
+257020,Gaua,Vanuatu,-14.281,167.514,Eruption Observed,2022 CE
+257030,Ambae,Vanuatu,-15.389,167.835,Eruption Observed,2024 CE
+257040,Ambrym,Vanuatu,-16.25,168.12,Eruption Observed,2024 CE
+257050,Lopevi,Vanuatu,-16.507,168.346,Eruption Observed,2007 CE
+257060,East Epi,Vanuatu,-16.6797,168.3893,Eruption Observed,2023 CE
+257070,Kuwae,Vanuatu,-16.8304,168.5227,Eruption Observed,1974 CE
+257081,Nguna-Emau,Vanuatu,-17.4522,168.353,Evidence Credible,Unknown
+257090,Traitor's Head,Vanuatu,-18.754,169.238,Eruption Observed,1881 CE
+257100,Yasur,Vanuatu,-19.532,169.447,Eruption Observed,2025 CE
+258001,Gemini-Oscostar,Vanuatu,-20.957,170.13,Eruption Observed,1996 CE
+258010,Matthew Island,France - claimed by Vanuatu,-22.33,171.32,Eruption Observed,1956 CE
+258020,Hunter Island,France - claimed by Vanuatu,-22.4,172.05,Eruption Observed,1903 CE
+259010,Newer Volcanics Province,Australia,-37.77,142.5,Eruption Dated,2900 BCE
+259804,McBride Volcanic Province,Australia,-18.367,144.567,Eruption Dated,5050 BCE
+260001,Narcondum,India,13.43,94.28,Evidence Credible,Unknown
+260010,Barren Island,India,12.278,93.858,Eruption Observed,2025 CE
+261030,Peuet Sague,Indonesia,4.903,96.289,Eruption Observed,2000 CE
+261050,"Telong, Bur ni",Indonesia,4.769,96.821,Eruption Observed,1937 CE
+261070,Singkut,Indonesia,3.2379,98.5127,Eruption Observed,1881 CE
+261080,Sinabung,Indonesia,3.17,98.392,Eruption Observed,2021 CE
+261120,Sorikmarapi,Indonesia,0.6834,99.5409,Eruption Observed,1986 CE
+261121,Malintang,Indonesia,0.4756,99.6628,Evidence Credible,Unknown
+261130,Talakmau,Indonesia,0.0787,99.984,Evidence Credible,Unknown
+261140,Marapi,Indonesia,-0.38,100.474,Eruption Observed,2025 CE
+261150,Tandikat-Singgalang,Indonesia,-0.4311,100.3192,Eruption Observed,1924 CE
+261160,Talang,Indonesia,-0.979,100.681,Eruption Observed,2007 CE
+261170,Kerinci,Indonesia,-1.697,101.264,Eruption Observed,2024 CE
+261180,Sumbing,Indonesia,-2.414,101.728,Eruption Observed,1921 CE
+261220,Kaba,Indonesia,-3.5156,102.6261,Eruption Observed,2000 CE
+261230,Dempo,Indonesia,-4.016,103.121,Eruption Observed,2025 CE
+261231,Patah,Indonesia,-4.257,103.306,Unrest / Holocene,Unknown
+261251,Ranau,Indonesia,-4.871,103.925,Evidence Uncertain,Unknown
+261270,Suoh,Indonesia,-5.25,104.27,Eruption Observed,2024 CE
+262000,Krakatau,Indonesia,-6.1009,105.4233,Eruption Observed,2023 CE
+263010,Pulosari,Indonesia,-6.343,105.978,Evidence Credible,Unknown
+263020,Karang,Indonesia,-6.268,106.05,Evidence Uncertain,Unknown
+263040,Perbakti-Gagak,Indonesia,-6.75,106.675,Eruption Observed,1939 CE
+263050,Salak,Indonesia,-6.716,106.733,Eruption Observed,1938 CE
+263060,Gede-Pangrango,Indonesia,-6.786,106.983,Eruption Observed,1957 CE
+263070,Patuha,Indonesia,-7.162,107.4,Evidence Credible,Unknown
+263090,Tangkuban Parahu,Indonesia,-6.77,107.6,Eruption Observed,2019 CE
+263100,Papandayan,Indonesia,-7.3175,107.7306,Eruption Observed,2002 CE
+263130,Guntur,Indonesia,-7.143,107.841,Eruption Observed,1847 CE
+263131,Tampomas,Indonesia,-6.7639,107.9612,Evidence Credible,Unknown
+263140,Galunggung,Indonesia,-7.25,108.058,Eruption Observed,1984 CE
+263150,Talagabodas,Indonesia,-7.208,108.07,Unrest / Holocene,Unknown
+263170,Ciremai,Indonesia,-6.895,108.408,Eruption Observed,1951 CE
+263180,Slamet,Indonesia,-7.242,109.208,Eruption Observed,2014 CE
+263200,Dieng Volcanic Complex,Indonesia,-7.2,109.879,Eruption Observed,2025 CE
+263210,Sundoro,Indonesia,-7.3014,109.997,Eruption Observed,1971 CE
+263220,Sumbing,Indonesia,-7.3819,110.0747,Eruption Observed,1730 CE
+263240,Merbabu,Indonesia,-7.454,110.44,Eruption Observed,1797 CE
+263250,Merapi,Indonesia,-7.54,110.446,Eruption Observed,2025 CE
+263260,Lawu,Indonesia,-7.625,111.192,Evidence Uncertain,Unknown
+263280,Kelud,Indonesia,-7.935,112.314,Eruption Observed,2014 CE
+263281,Kawi-Butak,Indonesia,-7.92,112.45,Evidence Credible,Unknown
+263290,Arjuno-Welirang,Indonesia,-7.733,112.575,Eruption Observed,1952 CE
+263291,Penanggungan,Indonesia,-7.616,112.62,Evidence Credible,Unknown
+263300,Semeru,Indonesia,-8.108,112.922,Eruption Observed,2025 CE
+263310,Tengger Caldera,Indonesia,-7.942,112.95,Eruption Observed,2023 CE
+263320,Lamongan,Indonesia,-7.981,113.341,Eruption Observed,1898 CE
+263330,Iyang-Argapura,Indonesia,-7.97,113.57,Evidence Credible,Unknown
+263340,Raung,Indonesia,-8.119,114.056,Eruption Observed,2025 CE
+263350,Ijen,Indonesia,-8.058,114.242,Eruption Observed,1999 CE
+263351,Baluran,Indonesia,-7.85,114.37,Evidence Uncertain,Unknown
+264001,Buyan-Bratan,Indonesia,-8.283,115.133,Evidence Credible,Unknown
+264010,Batur,Indonesia,-8.2403,115.3775,Eruption Observed,2000 CE
+264020,Agung,Indonesia,-8.343,115.508,Eruption Observed,2022 CE
+264030,Rinjani,Indonesia,-8.42,116.47,Eruption Observed,2016 CE
+264040,Tambora,Indonesia,-8.25,118,Eruption Observed,1967 CE
+264050,Sangeang Api,Indonesia,-8.2,119.07,Eruption Observed,2022 CE
+264060,"Sano, Wai",Indonesia,-8.7345,120.0074,Evidence Credible,Unknown
+264071,Ranakah,Indonesia,-8.637,120.5302,Eruption Observed,1991 CE
+264080,Inierie,Indonesia,-8.875,120.95,Eruption Dated,8050 BCE
+264090,Inielika,Indonesia,-8.73,120.98,Eruption Observed,2001 CE
+264100,Ebulobo,Indonesia,-8.817,121.191,Eruption Observed,1969 CE
+264110,Iya,Indonesia,-8.891,121.641,Eruption Observed,1969 CE
+264140,Kelimutu,Indonesia,-8.77,121.82,Eruption Observed,1968 CE
+264150,Paluweh,Indonesia,-8.32,121.708,Eruption Observed,2013 CE
+264160,Egon,Indonesia,-8.676,122.455,Eruption Observed,2008 CE
+264180,Lewotobi,Indonesia,-8.542,122.775,Eruption Observed,2025 CE
+264220,Iliboleng,Indonesia,-8.342,123.258,Eruption Observed,1993 CE
+264230,Lewotolok,Indonesia,-8.274,123.508,Eruption Observed,2025 CE
+264240,Ililabalekan,Indonesia,-8.55,123.38,Unrest / Holocene,Unknown
+264250,Iliwerung,Indonesia,-8.532,123.573,Eruption Observed,2021 CE
+264260,"Tara, Batu",Indonesia,-7.791,123.585,Eruption Observed,2015 CE
+264270,Sirung,Indonesia,-8.4972,124.1306,Eruption Observed,2021 CE
+265040,Wurlali,Indonesia,-7.125,128.675,Eruption Observed,1892 CE
+265050,Teon,Indonesia,-6.976,129.144,Eruption Observed,1904 CE
+265060,Nila,Indonesia,-6.73,129.5,Eruption Observed,1968 CE
+265070,Serua,Indonesia,-6.312,130.017,Eruption Observed,1921 CE
+265080,Manuk,Indonesia,-5.543,130.303,Unrest / Holocene,Unknown
+265090,Banda Api,Indonesia,-4.523,129.881,Eruption Observed,1988 CE
+266010,Colo,Indonesia,-0.162,121.601,Eruption Observed,1983 CE
+266020,Ambang,Indonesia,0.75,124.42,Eruption Observed,2005 CE
+266030,Soputan,Indonesia,1.112,124.737,Eruption Observed,2020 CE
+266100,Lokon-Empung,Indonesia,1.3644,124.7992,Eruption Observed,2015 CE
+266110,Mahawu,Indonesia,1.352,124.865,Eruption Observed,1977 CE
+266120,Klabat,Indonesia,1.454,125.031,Unrest / Holocene,Unknown
+266130,Tangkoko-Duasudara,Indonesia,1.518,125.185,Eruption Observed,1880 CE
+267010,Ruang,Indonesia,2.3058,125.3671,Eruption Observed,2024 CE
+267020,Karangetang,Indonesia,2.781,125.407,Eruption Observed,2023 CE
+267030,Banua Wuhu,Indonesia,3.1463,125.4422,Eruption Observed,1919 CE
+267040,Awu,Indonesia,3.689,125.447,Eruption Observed,2004 CE
+268001,Tarakan,Indonesia,1.832,127.825,Evidence Credible,Unknown
+268010,Dukono,Indonesia,1.6992,127.8783,Eruption Observed,2025 CE
+268020,Tobaru,Indonesia,1.63,127.67,Evidence Credible,Unknown
+268030,Ibu,Indonesia,1.4941,127.6324,Eruption Observed,2025 CE
+268040,Gamkonora,Indonesia,1.38,127.53,Eruption Observed,2007 CE
+268050,Todoko-Ranu,Indonesia,1.2389,127.4556,Evidence Credible,Unknown
+268051,Jailolo,Indonesia,1.08,127.439,Evidence Credible,Unknown
+268052,Hiri,Indonesia,0.8971,127.317,Evidence Credible,Unknown
+268060,Gamalama,Indonesia,0.81,127.3322,Eruption Observed,2018 CE
+268061,Kie Matubu,Indonesia,0.6623,127.4029,Eruption Dated,1210 CE
+268062,Mare,Indonesia,0.57,127.4,Evidence Credible,Unknown
+268063,Moti,Indonesia,0.454,127.411,Evidence Credible,Unknown
+268070,Kie Besi,Indonesia,0.32,127.4,Eruption Observed,1988 CE
+271011,Melebingoy,Philippines,6.113,124.892,Eruption Observed,1641 CE
+271020,Matutum,Philippines,6.3604,125.0765,Eruption Dated,1290 CE
+271031,Leonard Range,Philippines,7.382,126.047,Eruption Dated,80 CE
+271040,Makaturing,Philippines,7.644,124.317,Eruption Observed,1882 CE
+271060,Ragang,Philippines,7.691,124.507,Eruption Observed,1916 CE
+271070,Musuan,Philippines,7.8765,125.0697,Evidence Uncertain,Unknown
+271080,Camiguin,Philippines,9.203,124.673,Eruption Observed,1953 CE
+272020,Kanlaon,Philippines,10.4096,123.13,Eruption Observed,2025 CE
+272050,Cabalían,Philippines,10.285,125.218,Eruption Dated,1820 CE
+272080,Biliran,Philippines,11.523,124.535,Eruption Observed,1939 CE
+273010,Bulusan,Philippines,12.769,124.056,Eruption Observed,2025 CE
+273030,Mayon,Philippines,13.257,123.685,Eruption Observed,2024 CE
+273041,Iriga,Philippines,13.458,123.451,Evidence Credible,Unknown
+273042,Isarog,Philippines,13.658,123.38,Eruption Dated,3500 BCE
+273050,Banahaw,Philippines,14.07,121.48,Evidence Credible,Unknown
+273060,San Pablo Volcanic Field,Philippines,14.12,121.3,Eruption Dated,1350 CE
+273070,Taal,Philippines,14.0106,120.9975,Eruption Observed,2025 CE
+273083,Pinatubo,Philippines,15.13,120.35,Eruption Observed,2021 CE
+273090,Cagua,Philippines,18.222,122.123,Eruption Observed,1860 CE
+274010,Camiguin de Babuyanes,Philippines,18.83,121.86,Eruption Observed,1857 CE
+274020,Didicas,Philippines,19.077,122.202,Eruption Observed,1978 CE
+274030,Babuyan Claro,Philippines,19.524,121.95,Eruption Observed,1924 CE
+274060,Iraya,Philippines,20.469,122.01,Eruption Observed,1454 CE
+275001,Hainan Volcanic Field,China,19.905,110.229,Eruption Observed,1933 CE
+275020,Ly Son Group,Vietnam,15.38,109.12,Evidence Credible,Unknown
+275060,"Cendres, Ile des",Vietnam,10.158,109.014,Eruption Observed,1923 CE
+275080,Popa,Burma (Myanmar),20.92,95.25,Eruption Dated,6050 BCE
+275110,Tengchong,China,25.23,98.5,Eruption Dated,5750 BCE
+281031,Kueishantao,Taiwan,24.841,121.953,Eruption Observed,1853 CE
+281032,Tatun Volcanic Group,Taiwan,25.178,121.553,Eruption Dated,648 CE
+282010,Submarine Volcano NNE of Iriomotejima,Japan,24.57,123.93,Eruption Observed,1924 CE
+282020,Io-Torishima,Japan,27.881,128.223,Eruption Observed,1968 CE
+282021,Yokoatejima,Japan,28.797,128.997,Eruption Observed,1835 CE
+282022,Akusekijima,Japan,29.465,129.594,Evidence Uncertain,Unknown
+282030,Suwanosejima,Japan,29.638,129.714,Eruption Observed,2025 CE
+282040,Nakanoshima,Japan,29.859,129.857,Eruption Observed,1914 CE
+282043,Kuchinoshima,Japan,29.968,129.926,Eruption Dated,1190 CE
+282050,Kuchinoerabujima,Japan,30.443,130.217,Eruption Observed,2020 CE
+282060,Kikai,Japan,30.793,130.305,Eruption Observed,2024 CE
+282070,Ata,Japan,31.22,130.57,Eruption Observed,885 CE
+282080,Aira,Japan,31.5772,130.6589,Eruption Observed,2025 CE
+282081,Yonemaru-Sumiyoshiike,Japan,31.771,130.592,Eruption Dated,6200 BCE
+282090,Kirishimayama,Japan,31.934,130.862,Eruption Observed,2025 CE
+282091,Fukue,Japan,32.657,128.849,Eruption Dated,400 BCE
+282100,Unzendake,Japan,32.761,130.299,Eruption Observed,1996 CE
+282110,Asosan,Japan,32.8849,131.085,Eruption Observed,2021 CE
+282120,Kujusan,Japan,33.086,131.249,Eruption Observed,1996 CE
+282130,Yufu-Tsurumi,Japan,33.282,131.39,Eruption Observed,867 CE
+283001,Abu,Japan,34.4833,131.5167,Eruption Dated,6850 BCE
+283002,Sanbesan,Japan,35.141,132.622,Eruption Dated,650 CE
+283010,Izu-Tobu,Japan,34.9,139.098,Eruption Observed,1989 CE
+283020,Hakoneyama,Japan,35.233,139.021,Eruption Dated,2015 CE
+283030,Fujisan,Japan,35.361,138.728,Eruption Observed,1708 CE
+283031,Yokodake,Japan,36.087,138.32,Eruption Dated,1200 CE
+283040,Ontakesan,Japan,35.893,137.48,Eruption Observed,2014 CE
+283050,Hakusan,Japan,36.155,136.771,Eruption Observed,1659 CE
+283060,Norikuradake,Japan,36.106,137.554,Eruption Dated,50 BCE
+283069,Akandanayama,Japan,36.2,137.573,Evidence Credible,Unknown
+283070,Yakedake,Japan,36.227,137.587,Eruption Observed,1995 CE
+283080,Midagahara,Japan,36.571,137.59,Eruption Observed,1839 CE
+283090,Niigata-Yakeyama,Japan,36.921,138.036,Eruption Observed,1998 CE
+283100,Myokosan,Japan,36.891,138.114,Eruption Dated,750 BCE
+283110,Asamayama,Japan,36.406,138.523,Eruption Observed,2019 CE
+283120,Kusatsu-Shiranesan,Japan,36.618,138.528,Eruption Observed,2018 CE
+283121,Shiga,Japan,36.688,138.519,Evidence Uncertain,Unknown
+283122,Harunasan,Japan,36.477,138.851,Eruption Dated,550 CE
+283130,Akagisan,Japan,36.56,139.193,Evidence Uncertain,Unknown
+283131,Hiuchigatake,Japan,36.955,139.285,Eruption Observed,1544 CE
+283140,Nikko-Shiranesan,Japan,36.799,139.376,Eruption Observed,1952 CE
+283141,Nantaisan,Japan,36.765,139.491,Eruption Dated,9540 BCE
+283142,Omanago Group,Japan,36.8067,139.4756,Eruption Dated,3050 BCE
+283143,Takaharayama,Japan,36.9,139.777,Eruption Dated,4570 BCE
+283150,Nasudake,Japan,37.125,139.963,Eruption Observed,1963 CE
+283151,Numazawa,Japan,37.444,139.566,Eruption Dated,3400 BCE
+283160,Bandaisan,Japan,37.601,140.072,Eruption Observed,1888 CE
+283170,Adatarayama,Japan,37.647,140.281,Eruption Observed,1996 CE
+283180,Azumayama,Japan,37.735,140.244,Eruption Observed,1977 CE
+283190,Zaozan [Zaosan],Japan,38.144,140.44,Eruption Observed,1940 CE
+283191,Hijiori,Japan,38.5992,140.1617,Evidence Credible,Unknown
+283200,Naruko,Japan,38.729,140.734,Eruption Observed,837 CE
+283210,Kurikomayama,Japan,38.961,140.788,Eruption Observed,1950 CE
+283220,Chokaisan,Japan,39.099,140.049,Eruption Observed,1974 CE
+283230,Akita-Komagatake,Japan,39.761,140.799,Eruption Observed,1971 CE
+283240,Iwatesan,Japan,39.853,141.001,Eruption Observed,1919 CE
+283250,Hachimantai,Japan,39.958,140.854,Eruption Dated,5350 BCE
+283260,Akita-Yakeyama,Japan,39.964,140.757,Eruption Observed,1997 CE
+283262,Megata,Japan,39.95,139.725,Eruption Dated,2050 BCE
+283270,Iwakisan,Japan,40.656,140.303,Eruption Observed,1863 CE
+283271,Towada,Japan,40.51,140.88,Eruption Observed,915 CE
+283280,Hakkodasan,Japan,40.659,140.877,Eruption Dated,1550 CE
+283290,Osorezan,Japan,41.279,141.12,Eruption Observed,1787 CE
+284010,Izu-Oshima,Japan,34.724,139.394,Eruption Observed,1990 CE
+284011,Toshima,Japan,34.52,139.279,Eruption Dated,4550 BCE
+284020,Niijima,Japan,34.397,139.27,Eruption Observed,886 CE
+284030,Kozushima,Japan,34.219,139.153,Eruption Observed,838 CE
+284040,Miyakejima,Japan,34.094,139.526,Eruption Observed,2010 CE
+284041,Mikurajima,Japan,33.874,139.602,Eruption Dated,4100 BCE
+284042,Kurose Hole,Japan,33.4,139.68,Evidence Uncertain,Unknown
+284050,Hachijojima,Japan,33.137,139.766,Eruption Observed,1606 CE
+284060,Aogashima,Japan,32.458,139.759,Eruption Observed,1785 CE
+284061,Kita-Bayonnaise,Japan,32.1,139.85,Evidence Uncertain,Unknown
+284070,Myojinsho,Japan,31.888,139.918,Eruption Observed,1970 CE
+284080,Sumisujima,Japan,31.44,140.051,Eruption Observed,1916 CE
+284090,Izu-Torishima,Japan,30.484,140.303,Eruption Observed,2002 CE
+284091,Sofugan,Japan,29.794,140.342,Evidence Uncertain,Unknown
+284093,Suiyo Seamount,Japan,28.575,140.633,Unrest / Holocene,Unknown
+284094,Mokuyo Seamount,Japan,28.327,140.572,Unrest / Holocene,Unknown
+284095,Doyo Seamount,Japan,27.68,140.8,Unrest / Holocene,Unknown
+284096,Nishinoshima,Japan,27.247,140.874,Eruption Observed,2023 CE
+284097,Kaikata Seamount,Japan,26.667,140.929,Unrest / Holocene,Unknown
+284100,Kaitoku Seamount,Japan,26.1217,141.0955,Eruption Observed,2023 CE
+284110,Kita-Ioto,Japan,25.424,141.284,Eruption Observed,2022 CE
+284120,Ioto,Japan,24.751,141.289,Eruption Observed,2025 CE
+284121,Kita-Fukutokutai,Japan,24.417,141.417,Eruption Observed,1954 CE
+284130,Fukutoku-Oka-no-Ba,Japan,24.285,141.481,Eruption Observed,2021 CE
+284131,Minami-Hiyoshi,Japan,23.5,141.935,Eruption Observed,1975 CE
+284132,Nikko,Japan,23.078,142.326,Unrest / Holocene,Unknown
+284133,Fukujin,United States,21.93,143.47,Eruption Observed,1974 CE
+284134,Kasuga 1,United States,21.765,143.71,Eruption Observed,1959 CE
+284135,Kasuga 2,United States,21.6,143.637,Evidence Credible,Unknown
+284136,NW Eifuku,United States,21.485,144.043,Unrest / Holocene,Unknown
+284137,Daikoku,United States,21.324,144.194,Unrest / Holocene,Unknown
+284140,Farallon de Pajaros,United States,20.546,144.893,Eruption Observed,1953 CE
+284141,Ahyi,United States,20.437,145.03,Eruption Dated,2025 CE
+284142,Supply Reef,United States,20.13,145.1,Evidence Uncertain,Unknown
+284143,Maug Islands,United States,20.02,145.22,Unrest / Holocene,Unknown
+284150,Asuncion,United States,19.671,145.406,Eruption Observed,1906 CE
+284160,Agrigan,United States,18.77,145.67,Eruption Observed,1917 CE
+284170,Pagan,United States,18.13,145.8,Eruption Observed,2021 CE
+284180,Alamagan,United States,17.6,145.83,Eruption Dated,870 CE
+284190,Guguan,United States,17.3137,145.84,Eruption Observed,1883 CE
+284191,Zealandia Bank,United States,16.88,145.85,Unrest / Holocene,Unknown
+284192,Sarigan,United States,16.6991,145.7803,Evidence Credible,Unknown
+284193,South Sarigan Seamount,United States,16.58,145.78,Eruption Observed,2010 CE
+284200,Anatahan,United States,16.35,145.67,Eruption Observed,2008 CE
+284201,East Diamante,United States,15.93,145.67,Unrest / Holocene,Unknown
+284202,Ruby,United States,15.605,145.572,Eruption Observed,2023 CE
+284210,Esmeralda Bank,United States,14.958,145.249,Unrest / Holocene,Unknown
+284211,NW Rota-1,United States,14.601,144.775,Eruption Observed,2010 CE
+284220,Forecast Seamount,United States,13.4,143.92,Unrest / Holocene,Unknown
+284230,Seamount X,United States,13.25,144.02,Unrest / Holocene,Unknown
+284305,Mariana Back-Arc Segment at 15.5°N,United States,15.406,144.506,Eruption Dated,2015 CE
+285010,Oshima-Oshima,Japan,41.51,139.367,Eruption Observed,1790 CE
+285011,Esan,Japan,41.805,141.166,Eruption Observed,1874 CE
+285020,Hokkaido-Komagatake,Japan,42.063,140.677,Eruption Observed,2000 CE
+285030,Toya,Japan,42.544,140.839,Eruption Observed,2001 CE
+285031,Niseko,Japan,42.875,140.659,Eruption Dated,4900 BCE
+285032,Yoteizan,Japan,42.827,140.812,Eruption Dated,1050 BCE
+285034,Kuttara,Japan,42.491,141.16,Eruption Dated,1820 CE
+285040,Shikotsu,Japan,42.688,141.38,Eruption Observed,1981 CE
+285041,Rishirizan,Japan,45.179,141.242,Eruption Dated,5830 BCE
+285050,Tokachidake,Japan,43.418,142.686,Eruption Observed,2004 CE
+285060,Taisetsuzan,Japan,43.664,142.854,Eruption Dated,1739 CE
+285061,Maruyama,Japan,43.418,143.031,Eruption Observed,1898 CE
+285070,Akan,Japan,43.384,144.013,Eruption Observed,2008 CE
+285080,Kussharo,Japan,43.615,144.427,Eruption Dated,1320 CE
+285081,Mashu,Japan,43.572,144.561,Eruption Dated,1080 CE
+285082,Rausudake,Japan,44.076,145.122,Eruption Dated,1800 CE
+285083,Tenchozan,Japan,44.044,145.086,Eruption Dated,Unknown
+285090,Shiretoko-Iozan,Japan,44.133,145.161,Eruption Observed,1936 CE
+290010,Tomariyama [Golovnin],Japan - administered by Russia,43.844,145.504,Eruption Observed,1848 CE
+290020,Raususan [Mendeleev],Japan - administered by Russia,43.979,145.733,Eruption Observed,1880 CE
+290021,Ruruidake [Smirnov],Japan - administered by Russia,44.4541,146.1401,Evidence Credible,Unknown
+290030,Chachadake [Tiatia],Japan - administered by Russia,44.353,146.252,Eruption Observed,1981 CE
+290040,Berutarubesan [Berutarube],Japan - administered by Russia,44.462,146.932,Evidence Credible,Unknown
+290050,Etorofu-Atosanupuri [Atosanupuri],Japan - administered by Russia,44.808,147.131,Eruption Observed,1932 CE
+290060,Hitokappu Volcano Group [Bogatyr Ridge],Japan - administered by Russia,44.857,147.403,Evidence Credible,Unknown
+290070,Etorofu-Yakeyama [Grozny Group],Japan - administered by Russia,45.012,147.871,Eruption Observed,2013 CE
+290072,Odamoisan [Tebenkov],Japan - administered by Russia,45.028,147.918,Evidence Uncertain,Unknown
+290080,Sashiusudake [Baransky],Japan - administered by Russia,45.103,148.0148,Eruption Observed,1951 CE
+290090,Chirippusan [Chirip],Japan - administered by Russia,45.338,147.92,Eruption Observed,1860 CE
+290100,Moyorodake [Medvezhia],Japan - administered by Russia,45.389,148.838,Eruption Observed,1999 CE
+290111,Ivao Group,Russia,45.7593,149.6762,Evidence Credible,Unknown
+290120,Kolokol Group,Russia,46.042,150.083,Eruption Observed,1973 CE
+290130,Kuril Arc at 46.3°N,Japan - administered by Russia,46.2944,150.8526,Evidence Uncertain,Unknown
+290150,Chirpoi,Russia,46.532,150.871,Eruption Observed,2016 CE
+290161,Milna,Russia,46.815,151.786,Eruption Observed,1914 CE
+290180,Zavaritzki Caldera,Russia,46.9178,151.9518,Eruption Observed,1957 CE
+290190,Prevo Peak,Russia,47.0139,152.1167,Eruption Observed,1825 CE
+290191,Uratman,Russia,47.12,152.25,Evidence Credible,Unknown
+290200,Ketoi,Russia,47.35,152.475,Eruption Observed,1960 CE
+290210,Ushishur,Russia,47.5125,152.8139,Eruption Observed,1884 CE
+290211,Srednii,Russia,47.5861,152.893,Evidence Credible,Unknown
+290220,Rasshua,Russia,47.77,153.02,Eruption Observed,1957 CE
+290240,Sarychev Peak,Russia,48.092,153.2,Eruption Observed,2021 CE
+290250,Raikoke,Russia,48.292,153.25,Eruption Observed,2019 CE
+290260,Chirinkotan,Russia,48.98,153.48,Eruption Observed,2022 CE
+290270,Ekarma,Russia,48.958,153.93,Eruption Observed,2010 CE
+290290,Sinarka,Russia,48.873,154.182,Eruption Observed,1878 CE
+290300,Kharimkotan,Russia,49.12,154.508,Eruption Observed,1933 CE
+290310,Tao-Rusyr Caldera,Russia,49.34,154.725,Eruption Observed,1952 CE
+290320,Nemo Peak,Russia,49.57,154.808,Eruption Observed,1938 CE
+290331,Shirinki,Russia,50.2,154.98,Evidence Credible,Unknown
+290340,Fuss Peak,Russia,50.267,155.246,Eruption Observed,1854 CE
+290350,Karpinsky Group,Russia,50.148,155.373,Eruption Observed,1952 CE
+290360,Chikurachki,Russia,50.324,155.461,Eruption Observed,2023 CE
+290370,Vernadskii Ridge,Russia,50.55,155.97,Evidence Credible,Unknown
+290380,Ebeko,Russia,50.686,156.014,Eruption Observed,2024 CE
+290390,Alaid,Russia,50.861,155.565,Eruption Observed,2022 CE
+300010,Kambalny,Russia,51.306,156.875,Eruption Dated,2017 CE
+300020,Koshelev,Russia,51.356,156.753,Eruption Observed,1690 CE
+300021,Yavinsky,Russia,51.533,156.629,Eruption Dated,4050 BCE
+300022,Diky Greben,Russia,51.452,156.978,Eruption Dated,350 CE
+300023,Kurile Lake,Russia,51.45,157.12,Eruption Dated,6440 BCE
+300030,Iliinsky,Russia,51.498,157.203,Eruption Observed,1901 CE
+300040,Zheltovsky,Russia,51.577,157.328,Eruption Observed,1923 CE
+300050,Ksudach,Russia,51.8042,157.5292,Eruption Observed,1907 CE
+300052,Olkoviy Volcanic Group,Russia,52.02,157.53,Evidence Credible,Unknown
+300053,Khodutka,Russia,52.062,157.711,Eruption Dated,300 BCE
+300058,Asacha,Russia,52.355,157.827,Evidence Credible,Unknown
+300059,Visokiy,Russia,52.435,157.9332,Evidence Credible,Unknown
+300060,Mutnovsky,Russia,52.449,158.196,Eruption Observed,2000 CE
+300070,Gorely,Russia,52.5549,158.0358,Eruption Observed,2010 CE
+300080,Opala,Russia,52.543,157.339,Eruption Observed,1776 CE
+300082,Tolmachev Dol,Russia,52.63,157.58,Eruption Dated,300 CE
+300083,Vilyuchinsky,Russia,52.7,158.28,Eruption Dated,8050 BCE
+300084,Barkhatnaya Sopka,Russia,52.802,158.24,Eruption Dated,3550 BCE
+300090,Koryaksky,Russia,53.321,158.712,Eruption Observed,2009 CE
+300100,Avachinsky,Russia,53.256,158.836,Eruption Observed,2001 CE
+300110,Dzenzursky,Russia,53.637,158.922,Evidence Credible,Unknown
+300120,Zhupanovsky,Russia,53.589,159.15,Eruption Observed,2016 CE
+300121,Veer,Russia,53.7525,158.4478,Eruption Dated,390 CE
+300122,Kostakan,Russia,53.833,158.052,Eruption Dated,1350 CE
+300123,Bakening,Russia,53.905,158.07,Eruption Dated,550 BCE
+300124,Zavaritsky,Russia,53.905,158.385,Eruption Dated,800 BCE
+300125,Akademia Nauk,Russia,53.98,159.45,Eruption Observed,1996 CE
+300130,Karymsky,Russia,54.049,159.443,Eruption Observed,2025 CE
+300140,Maly Semyachik,Russia,54.135,159.674,Eruption Observed,1952 CE
+300150,Bolshoi Semiachik,Russia,54.32,160.02,Eruption Dated,4450 BCE
+300160,Taunshits,Russia,54.528,159.804,Eruption Dated,550 BCE
+300170,Uzon,Russia,54.4885,159.9741,Eruption Dated,200 CE
+300180,Kikhpinych,Russia,54.489,160.251,Eruption Dated,1550 CE
+300190,Krasheninnikov,Russia,54.596,160.27,Eruption Dated,2025 CE
+300200,Kronotsky,Russia,54.753,160.533,Eruption Observed,1923 CE
+300210,Gamchen,Russia,54.974,160.703,Eruption Dated,550 BCE
+300220,Komarov,Russia,55.033,160.725,Eruption Dated,950 CE
+300221,Vysoky,Russia,55.064,160.765,Eruption Dated,550 BCE
+300230,Kizimen,Russia,55.131,160.32,Eruption Observed,2013 CE
+300240,Tolbachik,Russia,55.832,160.326,Eruption Observed,2013 CE
+300241,Udina,Russia,55.758,160.527,Evidence Credible,Unknown
+300242,Zimina,Russia,55.862,160.603,Evidence Uncertain,Unknown
+300250,Bezymianny,Russia,55.972,160.595,Eruption Observed,2025 CE
+300251,Kamen,Russia,56.02,160.593,Evidence Credible,Unknown
+300260,Klyuchevskoy,Russia,56.056,160.642,Eruption Observed,2025 CE
+300261,Ushkovsky,Russia,56.113,160.509,Eruption Observed,1890 CE
+300270,Sheveluch,Russia,56.653,161.36,Eruption Observed,2025 CE
+300271,Piip,Russia,55.42,167.33,Eruption Dated,5050 BCE
+300272,Khangar,Russia,54.761,157.407,Eruption Dated,1500 CE
+300273,Cherpuk Group,Russia,55.55,157.47,Eruption Dated,4550 BCE
+300280,Ichinsky,Russia,55.678,157.718,Eruption Observed,1740 CE
+300360,Bolshoi-Kekuknaysky,Russia,56.483,157.917,Eruption Dated,5310 BCE
+300450,Alney-Chashakondzha,Russia,56.656,159.647,Eruption Dated,1600 CE
+300511,Shisheika,Russia,57.153,161.09,Eruption Dated,2240 BCE
+300512,Terpuk,Russia,57.2,159.83,Eruption Dated,800 BCE
+300520,Sedanka Lava Field,Russia,57.317,160.067,Eruption Dated,7050 BCE
+300550,Gorny Institute,Russia,57.33,160.2,Eruption Dated,1250 CE
+300551,Kinenin,Russia,57.35,160.97,Eruption Dated,850 CE
+300552,Bliznetsy,Russia,57.35,161.37,Eruption Dated,1060 BCE
+300560,Titila,Russia,57.406,160.108,Eruption Dated,550 BCE
+300590,Elovsky,Russia,57.55,160.53,Eruption Dated,7550 BCE
+300650,Nylgimelkin,Russia,57.97,160.65,Eruption Dated,3550 BCE
+300671,Spokoiny,Russia,58.13,160.82,Eruption Dated,3450 BCE
+300680,Ostry,Russia,58.18,160.82,Eruption Dated,2050 BCE
+300700,Severny,Russia,58.28,160.87,Eruption Dated,1550 BCE
+302030,Udokan Plateau,Russia,56.28,117.77,Eruption Dated,220 BCE
+302060,Jombolok,Russia,52.713,99.021,Eruption Dated,737 CE
+303010,Taryatu-Chulutu,Mongolia,48.133,99.95,Eruption Dated,2980 BCE
+303015,Khoid Naiman Nuur,Mongolia,46.6459,101.7982,Evidence Uncertain,Unknown
+303040,Dariganga Volcanic Field,Mongolia,45.754,114.279,Evidence Credible,Unknown
+304030,Ashikule Volcanic Field,China,35.742,81.646,Eruption Observed,1951 CE
+305010,Honggeertu,China,41.59,113.111,Evidence Uncertain,Unknown
+305011,Arxan-Chaihe,China,47.45,120.8,Eruption Dated,0 CE
+305020,Keluo Group,China,49.37,125.92,Evidence Credible,Unknown
+305030,Wudalianchi,China,48.722,126.15,Eruption Observed,1776 CE
+305040,Jingpohu,China,44.08,128.83,Eruption Dated,520 BCE
+305050,Longgang Group,China,42.33,126.5,Eruption Dated,350 CE
+305060,Changbaishan,China-North Korea,41.98,128.08,Eruption Observed,1903 CE
+306030,Ulleungdo,South Korea,37.5,130.87,Eruption Dated,2990 BCE
+306040,Halla,South Korea,33.361,126.53,Eruption Observed,1007 CE
+311010,Buldir,United States,52.35,175.911,Evidence Uncertain,Unknown
+311020,Kiska,United States,52.103,177.602,Eruption Observed,1990 CE
+311030,Segula,United States,52.015,178.136,Evidence Credible,Unknown
+311040,Davidof,United States,51.97,178.33,Evidence Uncertain,Unknown
+311050,Little Sitkin,United States,51.95,178.543,Eruption Observed,1830 CE
+311060,Semisopochnoi,United States,51.93,179.58,Eruption Observed,2023 CE
+311070,Gareloi,United States,51.79,-178.794,Eruption Observed,1989 CE
+311080,Tanaga,United States,51.885,-178.146,Eruption Observed,1914 CE
+311090,Takawangha,United States,51.873,-178.006,Eruption Dated,1550 CE
+311100,Bobrof,United States,51.91,-177.438,Evidence Uncertain,Unknown
+311110,Kanaga,United States,51.923,-177.168,Eruption Observed,2023 CE
+311111,Moffett,United States,51.944,-176.747,Eruption Dated,1600 BCE
+311120,Great Sitkin,United States,52.076,-176.13,Eruption Observed,2025 CE
+311130,Kasatochi,United States,52.177,-175.508,Eruption Observed,2008 CE
+311140,Koniuji,United States,52.22,-175.13,Eruption Dated,1150 BCE
+311160,Atka Volcanic Complex,United States,52.331,-174.139,Eruption Observed,2025 CE
+311180,Seguam,United States,52.315,-172.51,Eruption Observed,1993 CE
+311190,Amukta,United States,52.5,-171.252,Eruption Observed,1996 CE
+311200,Chagulak,United States,52.5716,-171.1383,Evidence Uncertain,Unknown
+311210,Yunaska,United States,52.6394,-170.6317,Eruption Observed,1937 CE
+311220,Herbert,United States,52.742,-170.111,Evidence Credible,Unknown
+311230,Carlisle,United States,52.894,-170.054,Eruption Observed,1828 CE
+311240,Cleveland,United States,52.825,-169.944,Eruption Observed,2020 CE
+311241,Tana,United States,52.83,-169.77,Evidence Credible,Unknown
+311250,Uliaga,United States,53.065,-169.77,Evidence Credible,Unknown
+311260,Kagamil,United States,52.974,-169.72,Eruption Observed,1929 CE
+311270,Vsevidof,United States,53.1264,-168.6875,Eruption Observed,1878 CE
+311280,Recheschnoi,United States,53.157,-168.539,Evidence Credible,Unknown
+311290,Okmok,United States,53.43,-168.13,Eruption Observed,2008 CE
+311300,Bogoslof,United States,53.93,-168.03,Eruption Observed,2017 CE
+311310,Makushin,United States,53.891,-166.923,Eruption Observed,1995 CE
+311320,Akutan,United States,54.134,-165.986,Eruption Observed,1992 CE
+311340,Westdahl,United States,54.516,-164.65,Eruption Observed,1992 CE
+311350,Fisher,United States,54.65,-164.43,Eruption Observed,1830 CE
+311360,Shishaldin,United States,54.756,-163.97,Eruption Observed,2023 CE
+311380,Roundtop,United States,54.8,-163.589,Eruption Dated,7600 BCE
+311390,Amak,United States,55.4184,-163.1472,Eruption Observed,1796 CE
+312010,Frosty,United States,55.067,-162.835,Evidence Credible,Unknown
+312011,Dutton,United States,55.183,-162.276,Evidence Credible,Unknown
+312020,Emmons Lake Volcanic Center,United States,55.3519,-162.0445,Evidence Credible,Unknown
+312030,Pavlof,United States,55.417,-161.894,Eruption Observed,2022 CE
+312040,Pavlof Sister,United States,55.457,-161.854,Evidence Credible,Unknown
+312050,Dana,United States,55.641,-161.214,Eruption Dated,1890 BCE
+312055,Stepovak Bay Group,United States,55.917,-160.017,Evidence Credible,Unknown
+312060,Kupreanof,United States,56.011,-159.797,Evidence Uncertain,Unknown
+312070,Veniaminof,United States,56.17,-159.38,Eruption Observed,2021 CE
+312080,Black Peak,United States,56.552,-158.785,Eruption Dated,1900 BCE
+312090,Aniakchak,United States,56.88,-158.17,Eruption Observed,1931 CE
+312100,Yantarni,United States,57.019,-157.185,Eruption Dated,800 BCE
+312110,Chiginagak,United States,57.135,-156.99,Eruption Observed,1998 CE
+312120,Kialagvik,United States,57.203,-156.745,Evidence Credible,Unknown
+312130,Ugashik-Peulik,United States,57.751,-156.368,Eruption Observed,1814 CE
+312131,Ukinrek Maars,United States,57.8344,-156.5203,Eruption Observed,1977 CE
+312132,Unnamed,United States,57.87,-155.411,Evidence Credible,Unknown
+312140,Martin,United States,58.172,-155.361,Eruption Dated,1953 CE
+312150,Mageik,United States,58.195,-155.253,Eruption Dated,500 BCE
+312160,Trident,United States,58.236,-155.1,Eruption Observed,1974 CE
+312170,Katmai,United States,58.279,-154.9533,Eruption Observed,1912 CE
+312180,Novarupta,United States,58.2655,-155.1588,Eruption Observed,1912 CE
+312190,Griggs,United States,58.354,-155.092,Eruption Dated,1790 BCE
+312200,Snowy Mountain,United States,58.336,-154.682,Eruption Dated,1710 CE
+312210,Denison,United States,58.418,-154.449,Evidence Uncertain,Unknown
+312220,Steller,United States,58.4298,-154.3895,Evidence Credible,Unknown
+312230,Kukak,United States,58.453,-154.355,Unrest / Holocene,Unknown
+312250,Kaguyak,United States,58.6113,-154.0245,Eruption Dated,3850 BCE
+312260,Fourpeaked,United States,58.77,-153.672,Eruption Observed,2006 CE
+312270,Douglas,United States,58.855,-153.542,Evidence Credible,Unknown
+313010,Augustine,United States,59.3626,-153.435,Eruption Observed,2006 CE
+313020,Iliamna,United States,60.032,-153.09,Eruption Observed,1876 CE
+313030,Redoubt,United States,60.485,-152.742,Eruption Observed,2009 CE
+313040,Spurr,United States,61.299,-152.251,Eruption Observed,1992 CE
+313050,Hayes,United States,61.64,-152.411,Eruption Dated,1200 CE
+314010,St. Paul Island,United States,57.167,-170.213,Eruption Dated,1280 BCE
+314030,Ingakslugwat Hills,United States,61.43,-164.47,Evidence Credible,Unknown
+314040,St. Michael,United States,63.45,-162.12,Evidence Credible,Unknown
+314060,Imuruk Lake,United States,65.517,-163.45,Eruption Dated,300 CE
+315001,Buzzard Creek,United States,64.0616,-148.4327,Eruption Dated,1050 BCE
+315020,Wrangell,United States,62.006,-144.017,Eruption Observed,1912 CE
+315030,Churchill,United States,61.38,-141.75,Eruption Dated,847 CE
+315040,Edgecumbe,United States,57.05,-135.75,Eruption Dated,2080 BCE
+315050,Duncan Canal,United States,56.5,-133.1,Evidence Credible,Unknown
+315060,Tlevak Strait-Suemez Island,United States,55.25,-133.3,Evidence Credible,Unknown
+315070,Behm Canal-Rudyerd Bay,United States,55.35,-131,Evidence Uncertain,Unknown
+320010,Fort Selkirk,Canada,62.93,-137.38,Evidence Uncertain,Unknown
+320020,Alligator Lake,Canada,60.42,-135.42,Evidence Credible,Unknown
+320030,Atlin Volcanic Field,Canada,59.708,-133.358,Evidence Credible,Unknown
+320031,Tuya Volcanic Field,Canada,59.37,-130.58,Evidence Credible,Unknown
+320040,Heart Peaks,Canada,58.6,-131.97,Evidence Uncertain,Unknown
+320050,Level Mountain,Canada,58.42,-131.35,Evidence Uncertain,Unknown
+320060,Edziza,Canada,57.72,-130.63,Eruption Dated,950 CE
+320070,Spectrum Range,Canada,57.43,-130.68,Evidence Credible,Unknown
+320080,Hoodoo Mountain,Canada,56.78,-131.28,Eruption Dated,7050 BCE
+320090,Iskut-Unuk River Cones,Canada,56.567,-130.75,Eruption Dated,1800 CE
+320100,Tseax River Cone,Canada,55.1109,-128.8991,Eruption Dated,1690 CE
+320110,Crow Lagoon,Canada,54.7,-130.23,Evidence Credible,Unknown
+320120,Milbanke Sound Group,Canada,52.498,-128.723,Evidence Credible,Unknown
+320140,Nazko,Canada,52.928,-123.732,Eruption Dated,5220 BCE
+320150,Wells Gray-Clearwater,Canada,52.0306,-120.1125,Eruption Dated,1550 CE
+320160,Silverthrone,Canada,51.5179,-126.1133,Evidence Credible,Unknown
+320170,Bridge River Cones,Canada,50.8,-123.4,Evidence Credible,Unknown
+320180,Meager,Canada,50.63,-123.5,Eruption Dated,410 BCE
+320190,Garibaldi Lake,Canada,49.933,-123,Evidence Credible,Unknown
+320200,Garibaldi,Canada,49.85,-123,Eruption Dated,8060 BCE
+320811,Cayley Volcanic Field,Canada,50.12,-123.28,Evidence Credible,Unknown
+321010,Baker,United States,48.777,-121.813,Eruption Observed,1880 CE
+321020,Glacier Peak,United States,48.112,-121.113,Eruption Dated,1700 CE
+321030,Rainier,United States,46.853,-121.76,Eruption Dated,1450 CE
+321040,Adams,United States,46.206,-121.49,Eruption Dated,950 CE
+321050,St. Helens,United States,46.2,-122.18,Eruption Observed,2008 CE
+321060,West Crater,United States,45.88,-122.08,Eruption Dated,5750 BCE
+321070,Indian Heaven,United States,45.93,-121.82,Eruption Dated,6250 BCE
+322010,Hood,United States,45.374,-121.695,Eruption Observed,1866 CE
+322020,Jefferson,United States,44.674,-121.8,Eruption Dated,950 CE
+322030,Blue Lake Crater,United States,44.4125,-121.7686,Eruption Dated,680 CE
+322040,Sand Mountain Field,United States,44.38,-121.93,Eruption Dated,950 BCE
+322060,Belknap,United States,44.285,-121.8423,Eruption Dated,475 CE
+322070,Three Sisters,United States,44.133,-121.767,Eruption Dated,439 CE
+322090,Bachelor,United States,43.979,-121.688,Eruption Dated,5800 BCE
+322100,Davis Lake,United States,43.57,-121.82,Eruption Dated,2790 BCE
+322110,Newberry,United States,43.722,-121.229,Eruption Dated,690 CE
+322120,Devils Garden,United States,43.512,-120.861,Evidence Uncertain,Unknown
+322150,Cinnamon Butte,United States,43.2411,-122.1111,Evidence Uncertain,Unknown
+322160,Crater Lake,United States,42.942,-122.107,Eruption Dated,2850 BCE
+322170,Diamond Craters,United States,43.1,-118.75,Eruption Dated,5610 BCE
+322190,Jordan Craters,United States,43.147,-117.46,Eruption Dated,1250 BCE
+323010,Shasta,United States,41.409,-122.193,Eruption Observed,1250 CE
+323020,Medicine Lake,United States,41.611,-121.554,Eruption Dated,1060 CE
+323080,Lassen Volcanic Center,United States,40.492,-121.508,Eruption Observed,1917 CE
+323100,Clear Lake Volcanic Field,United States,38.97,-122.77,Evidence Credible,Unknown
+323110,Mono Lake Volcanic Field,United States,38,-119.03,Eruption Dated,1790 CE
+323120,Mono-Inyo Craters,United States,37.804,-119.029,Eruption Dated,1380 CE
+323150,Mammoth Mountain,United States,37.631,-119.032,Eruption Dated,1260 CE
+323160,Ubehebe Craters,United States,37.02,-117.45,Eruption Dated,150 BCE
+323200,Salton Buttes,United States,33.197,-115.616,Eruption Dated,210 CE
+324010,Black Butte Crater Lava Field,United States,43.183,-114.352,Eruption Dated,8180 BCE
+324020,Craters of the Moon,United States,43.371,-113.493,Eruption Dated,130 BCE
+324030,Wapi Lava Field,United States,42.8859,-113.2166,Eruption Dated,300 BCE
+324040,Hell's Half Acre,United States,43.492,-112.4503,Eruption Dated,3250 BCE
+326010,Soda Lakes,United States,39.525,-118.8778,Evidence Credible,Unknown
+327040,Markagunt Plateau,United States,37.58,-112.67,Evidence Credible,1050 CE
+327050,Black Rock Desert,United States,38.97,-112.5,Eruption Dated,1290 CE
+327110,Carrizozo,United States,33.78,-105.93,Eruption Dated,3250 BCE
+327120,Zuni-Bandera,United States,34.8,-108,Eruption Dated,1170 BCE
+327812,Red Hill-Quemado,United States,34.25,-108.83,Eruption Dated,9450 BCE
+328010,Dotsero,United States,39.6613,-107.0355,Eruption Dated,2200 BCE
+329010,Uinkaret Field,United States,36.38,-113.13,Eruption Dated,1100 CE
+329020,San Francisco Volcanic Field,United States,35.347,-111.678,Eruption Dated,1075 CE
+331005,West Valley Segment,Canada,48.78,-128.64,Unrest / Holocene,Unknown
+331010,Endeavour Segment,Canada,47.95,-129.1,Eruption Dated,3490 BCE
+331011,Cobb Segment,Canada,46.88,-129.33,Eruption Dated,1180 BCE
+331020,CoAxial Segment,Undersea Features,46.52,-129.58,Eruption Observed,1993 CE
+331021,Axial Seamount,Undersea Features,45.95,-130,Eruption Observed,2015 CE
+331030,Cleft Segment,Undersea Features,44.83,-130.3,Eruption Observed,1986 CE
+331031,North Gorda Ridge Segment,United States,42.67,-126.78,Eruption Observed,1996 CE
+331032,Jackson Segment,United States,42.15,-127.05,Unrest / Holocene,Unknown
+331040,Escanaba Segment,United States,40.98,-127.5,Eruption Dated,2260 BCE
+331060,East Blanco Depression,Undersea Features,44.267,-129.879,Unrest / Holocene,Unknown
+332000,Kama'ehuakanaloa,United States,18.92,-155.27,Eruption Observed,1996 CE
+332010,Kilauea,United States,19.421,-155.287,Eruption Observed,2025 CE
+332020,Mauna Loa,United States,19.475,-155.608,Eruption Observed,2022 CE
+332030,Mauna Kea,United States,19.82,-155.47,Eruption Dated,2460 BCE
+332040,Hualalai,United States,19.692,-155.87,Eruption Observed,1801 CE
+332060,Haleakala,United States,20.7099,-156.2537,Eruption Dated,1750 CE
+333010,Teahitia,France,-17.564,-148.821,Eruption Dated,1985 CE
+333020,Rocard,France,-17.662,-148.586,Eruption Dated,1972 CE
+333030,Moua Pihaa,France,-18.325,-148.525,Eruption Dated,1970 CE
+333040,Mehetia,France,-17.874,-148.068,Evidence Credible,Unknown
+333050,Adams Seamount,United Kingdom,-25.37,-129.27,Eruption Dated,50 BCE
+333060,Macdonald,France,-28.98,-140.25,Eruption Observed,1989 CE
+334020,Northern EPR at 17°N,Mexico,16.55,-105.32,Eruption Dated,50 BCE
+334021,Northern EPR at 16°N,Mexico,15.83,-105.43,Eruption Dated,50 BCE
+334040,Northern EPR at 10.7°N,Undersea Features,10.73,-103.58,Eruption Observed,2003 CE
+334050,Northern EPR at 9.8°N,Undersea Features,9.83,-104.3,Eruption Observed,2025 CE
+334070,Galapagos Rift at 86°W,Ecuador,0.792,-86.15,Eruption Observed,1996 CE
+334100,Southern EPR at 8°S,Undersea Features,-8.27,-107.95,Eruption Observed,1969 CE
+334120,Southern EPR at 17.5°S (Segment K),Undersea Features,-17.436,-113.206,Eruption Observed,1990 CE
+334130,Southern EPR at 18.2°S (Segment J),Undersea Features,-18.175,-113.35,Eruption Dated,1890 CE
+334140,Southern EPR at 18.5°S (Segment I),Undersea Features,-18.53,-113.42,Eruption Dated,1915 CE
+335020,Hollister Ridge,Undersea Features,-53.998,-139.845,Evidence Uncertain,Unknown
+335030,Udintsev Transform,Undersea Features,-56.153,-143.373,Evidence Uncertain,Unknown
+341000,"Prieto, Cerro",Mexico,32.418,-115.305,Evidence Uncertain,Unknown
+341001,Pinacate,Mexico,31.85,-113.5,Evidence Credible,Unknown
+341003,"San Luis, Isla",Mexico,29.9728,-114.4082,Evidence Credible,1141 BCE
+341004,Jaraguay Volcanic Field,Mexico,29.33,-114.5,Evidence Credible,Unknown
+341007,San Borja Volcanic Field,Mexico,28.5,-113.75,Evidence Credible,Unknown
+341011,"Tortuga, Isla",Mexico,27.438,-111.881,Evidence Credible,Unknown
+341012,Comondu-La Purisima,Mexico,26,-111.92,Evidence Uncertain,Unknown
+341020,Barcena,Mexico,19.3,-110.82,Eruption Observed,1953 CE
+341021,Socorro,Mexico,18.78,-110.95,Eruption Observed,1994 CE
+341022,Durango Volcanic Field,Mexico,24.15,-104.45,Evidence Credible,Unknown
+341024,Sanganguey,Mexico,21.45,-104.73,Evidence Credible,Unknown
+341030,Ceboruco,Mexico,21.125,-104.508,Eruption Observed,1875 CE
+341031,Mascota Volcanic Field,Mexico,20.567,-104.817,Evidence Credible,Unknown
+341040,Colima,Mexico,19.514,-103.62,Eruption Observed,2019 CE
+341060,Michoacan-Guanajuato,Mexico,19.85,-101.75,Eruption Observed,1952 CE
+341061,Zitacuaro-Valle de Bravo,Mexico,19.4,-100.25,Eruption Dated,3050 BCE
+341062,Jocotitlan,Mexico,19.73,-99.758,Eruption Dated,1270 CE
+341070,"Toluca, Nevado de",Mexico,19.108,-99.758,Eruption Dated,1350 BCE
+341080,Chichinautzin,Mexico,19.139,-99.16,Eruption Dated,399 CE
+341082,Iztaccihuatl,Mexico,19.179,-98.642,Evidence Credible,Unknown
+341090,Popocatepetl,Mexico,19.023,-98.622,Eruption Observed,2025 CE
+341091,"Malinche, La",Mexico,19.231,-98.032,Eruption Dated,1170 BCE
+341092,Serdan-Oriental,Mexico,19.27,-97.47,Evidence Credible,Unknown
+341093,"Humeros, Los",Mexico,19.68,-97.45,Eruption Dated,4470 BCE
+341094,"Atlixcos, Los",Mexico,19.81,-96.527,Evidence Credible,Unknown
+341095,Naolinco Volcanic Field,Mexico,19.67,-96.75,Eruption Dated,1200 BCE
+341096,Cofre de Perote,Mexico,19.492,-97.15,Eruption Dated,1150 CE
+341097,"Gloria, La",Mexico,19.33,-97.25,Evidence Credible,Unknown
+341098,"Cumbres,  Las",Mexico,19.15,-97.27,Eruption Dated,3920 BCE
+341100,"Orizaba, Pico de",Mexico,19.03,-97.27,Eruption Observed,1846 CE
+341110,San Martin,Mexico,18.57,-95.2,Eruption Observed,1796 CE
+341120,"Chichon, El",Mexico,17.3602,-93.2297,Eruption Observed,1982 CE
+341130,Tacana,Mexico-Guatemala,15.132,-92.109,Eruption Observed,1986 CE
+342020,Tajumulco,Guatemala,15.043,-91.903,Evidence Credible,Unknown
+342030,Santa Maria,Guatemala,14.757,-91.552,Eruption Observed,2025 CE
+342040,Almolonga,Guatemala,14.797,-91.519,Eruption Observed,1818 CE
+342060,Atitlan,Guatemala,14.583,-91.186,Eruption Observed,1853 CE
+342070,Toliman,Guatemala,14.612,-91.189,Evidence Credible,Unknown
+342080,Acatenango,Guatemala,14.501,-90.876,Eruption Observed,1972 CE
+342090,Fuego,Guatemala,14.4748,-90.8806,Eruption Observed,2025 CE
+342100,Agua,Guatemala,14.465,-90.743,Evidence Credible,Unknown
+342110,Pacaya,Guatemala,14.382,-90.601,Eruption Observed,2021 CE
+342111,Cuilapa-Barbarena,Guatemala,14.33,-90.4,Evidence Credible,Unknown
+342120,Tecuamburro,Guatemala,14.156,-90.407,Eruption Dated,960 BCE
+342121,Jumaytepeque,Guatemala,14.34,-90.271,Evidence Uncertain,Unknown
+342130,Moyuta,Guatemala,14.03,-90.1,Evidence Credible,Unknown
+342140,Flores,Guatemala,14.308,-89.992,Evidence Credible,Unknown
+342141,Tahual,Guatemala,14.43,-89.9,Evidence Credible,Unknown
+342150,"Santiago, Cerro",Guatemala,14.33,-89.87,Evidence Credible,Unknown
+342160,Suchitan,Guatemala,14.4,-89.78,Evidence Credible,Unknown
+342170,Chingo,Guatemala-El Salvador,14.12,-89.73,Evidence Credible,Unknown
+342180,Ixtepeque,Guatemala,14.42,-89.68,Evidence Credible,Unknown
+343002,"Singuil, Cerro",El Salvador,14.054,-89.631,Evidence Credible,Unknown
+343010,Apaneca Range,El Salvador,13.872,-89.742,Evidence Credible,Unknown
+343020,Santa Ana,El Salvador,13.853,-89.63,Eruption Observed,2005 CE
+343030,Izalco,El Salvador,13.813,-89.633,Eruption Observed,1966 CE
+343041,Coatepeque Caldera,El Salvador,13.87,-89.55,Evidence Credible,Unknown
+343050,San Salvador,El Salvador,13.734,-89.294,Eruption Observed,1917 CE
+343051,"Cinotepeque, Cerro",El Salvador,14.02,-89.25,Evidence Credible,Unknown
+343060,Ilopango,El Salvador,13.672,-89.053,Eruption Observed,1880 CE
+343070,San Vicente,El Salvador,13.5969,-88.8375,Evidence Credible,Unknown
+343072,Taburete,El Salvador,13.435,-88.532,Evidence Uncertain,Unknown
+343080,Tecapa,El Salvador,13.494,-88.502,Evidence Credible,Unknown
+343081,Usulutan,El Salvador,13.419,-88.471,Evidence Credible,Unknown
+343082,"Tigre, El",El Salvador,13.47,-88.43,Evidence Credible,Unknown
+343090,Chinameca,El Salvador,13.478,-88.33,Evidence Credible,Unknown
+343100,San Miguel,El Salvador,13.434,-88.269,Eruption Observed,2023 CE
+343101,"Aramuaca, Laguna",El Salvador,13.428,-88.105,Evidence Credible,Unknown
+343130,"Tigre, Isla del",Honduras,13.274,-87.639,Evidence Credible,Unknown
+343140,"Zacate Grande, Isla",Honduras,13.33,-87.63,Evidence Credible,Unknown
+343150,"Yojoa, Lago",Honduras,14.964,-87.983,Eruption Dated,7638 BCE
+344010,Cosiguina,Nicaragua,12.98,-87.57,Eruption Observed,1859 CE
+344020,San Cristobal,Nicaragua,12.702,-87.004,Eruption Observed,2024 CE
+344040,Telica,Nicaragua,12.606,-86.84,Eruption Observed,2025 CE
+344070,"Negro, Cerro",Nicaragua,12.506,-86.702,Eruption Observed,1999 CE
+344080,Las Pilas-El Hoyo Complex,Nicaragua,12.4922,-86.6786,Eruption Observed,1954 CE
+344090,Momotombo,Nicaragua,12.423,-86.539,Eruption Observed,2016 CE
+344091,Apoyeque,Nicaragua,12.242,-86.342,Eruption Dated,50 BCE
+344092,Nejapa-Miraflores,Nicaragua,12.12,-86.32,Eruption Dated,1060 CE
+344100,Masaya,Nicaragua,11.9844,-86.1688,Eruption Observed,2025 CE
+344101,Granada,Nicaragua,11.9,-85.979,Evidence Credible,Unknown
+344110,Mombacho,Nicaragua,11.826,-85.968,Unrest / Holocene,Unknown
+344111,Zapatera,Nicaragua,11.73,-85.82,Evidence Credible,Unknown
+344120,Concepcion,Nicaragua,11.538,-85.622,Eruption Observed,2024 CE
+345010,Orosi,Costa Rica,10.98,-85.473,Evidence Uncertain,Unknown
+345020,Rincon de la Vieja,Costa Rica,10.8314,-85.3364,Eruption Observed,2024 CE
+345030,Miravalles,Costa Rica,10.748,-85.153,Eruption Observed,1946 CE
+345031,Tenorio,Costa Rica,10.673,-85.015,Evidence Credible,Unknown
+345033,Arenal,Costa Rica,10.463,-84.703,Eruption Observed,2010 CE
+345034,Platanar,Costa Rica,10.3,-84.366,Evidence Credible,Unknown
+345040,Poas,Costa Rica,10.2,-84.233,Eruption Observed,2025 CE
+345050,Barva,Costa Rica,10.135,-84.1,Eruption Dated,6050 BCE
+345060,Irazu,Costa Rica,9.979,-83.852,Eruption Observed,1977 CE
+345070,Turrialba,Costa Rica,10.025,-83.767,Eruption Observed,2022 CE
+346010,Baru,Panama,8.808,-82.543,Eruption Observed,1550 CE
+351011,Romeral,Colombia,5.203,-75.363,Eruption Dated,5390 BCE
+351012,"Bravo, Cerro",Colombia,5.091,-75.293,Eruption Dated,1720 CE
+351020,"Ruiz, Nevado del",Colombia,4.892,-75.324,Eruption Observed,2025 CE
+351021,Santa Isabel,Colombia,4.818,-75.365,Eruption Dated,850 BCE
+351030,"Tolima, Nevado del",Colombia,4.658,-75.33,Eruption Observed,1943 CE
+351040,Machin,Colombia,4.487,-75.389,Eruption Dated,1180 CE
+351050,"Huila, Nevado del",Colombia,2.93,-76.03,Eruption Observed,2012 CE
+351060,Purace,Colombia,2.3095,-76.3948,Eruption Observed,2025 CE
+351061,Sotara,Colombia,2.108,-76.592,Evidence Credible,Unknown
+351070,Dona Juana,Colombia,1.5,-76.936,Eruption Observed,1906 CE
+351080,Galeras,Colombia,1.22,-77.37,Eruption Observed,2014 CE
+351090,Azufral,Colombia,1.08,-77.68,Eruption Dated,930 BCE
+351100,Cumbal,Colombia,0.95,-77.87,Eruption Observed,1926 CE
+351110,Chiles-Cerro Negro,Colombia-Ecuador,0.817,-77.938,Evidence Uncertain,1936 CE
+352001,Soche,Ecuador,0.552,-77.58,Eruption Dated,6650 BCE
+352002,Chachimbiro,Ecuador,0.468,-78.287,Eruption Dated,3740 BCE
+352003,Cuicocha,Ecuador,0.308,-78.364,Eruption Dated,650 CE
+352004,Imbabura,Ecuador,0.258,-78.183,Eruption Dated,5550 BCE
+352005,Mojanda,Ecuador,0.13,-78.27,Evidence Uncertain,Unknown
+352006,Cayambe,Ecuador,0.029,-77.986,Eruption Observed,1786 CE
+352010,Reventador,Ecuador,-0.077,-77.656,Eruption Observed,2025 CE
+352011,Pululahua,Ecuador,0.0464,-78.49,Eruption Dated,290 CE
+352020,Guagua Pichincha,Ecuador,-0.171,-78.598,Eruption Observed,2002 CE
+352021,Atacazo,Ecuador,-0.353,-78.617,Eruption Dated,320 BCE
+352022,Chacana,Ecuador,-0.375,-78.25,Eruption Observed,1773 CE
+352030,Antisana,Ecuador,-0.481,-78.141,Eruption Observed,1802 CE
+352031,Aliso,Ecuador,-0.53,-78,Eruption Dated,2450 BCE
+352040,Sumaco,Ecuador,-0.538,-77.626,Evidence Uncertain,1895 CE
+352041,Iliniza,Ecuador,-0.662,-78.716,Evidence Credible,Unknown
+352050,Cotopaxi,Ecuador,-0.677,-78.436,Eruption Observed,2023 CE
+352060,Quilotoa,Ecuador,-0.8592,-78.9044,Eruption Dated,1280 CE
+352071,Chimborazo,Ecuador,-1.469,-78.817,Eruption Dated,550 CE
+352080,Tungurahua,Ecuador,-1.467,-78.442,Eruption Observed,2016 CE
+352081,Licto,Ecuador,-1.786,-78.614,Evidence Uncertain,Unknown
+352090,Sangay,Ecuador,-2.005,-78.341,Eruption Observed,2025 CE
+353010,Fernandina,Ecuador,-0.37,-91.55,Eruption Observed,2024 CE
+353011,Ecuador,Ecuador,-0.02,-91.546,Eruption Dated,1150 CE
+353020,Wolf,Ecuador,0.02,-91.35,Eruption Observed,2022 CE
+353030,Darwin,Ecuador,-0.18,-91.28,Eruption Dated,1813 CE
+353040,Alcedo,Ecuador,-0.43,-91.12,Eruption Observed,1993 CE
+353050,"Negra, Sierra",Ecuador,-0.83,-91.17,Eruption Observed,2018 CE
+353060,"Azul, Cerro",Ecuador,-0.92,-91.408,Eruption Observed,2008 CE
+353070,Pinta,Ecuador,0.5858,-90.7553,Eruption Observed,Unknown
+353080,Marchena,Ecuador,0.33,-90.47,Eruption Observed,1991 CE
+353081,Genovesa,Ecuador,0.32,-89.958,Evidence Credible,Unknown
+353090,Santiago,Ecuador,-0.22,-90.77,Eruption Observed,1906 CE
+353091,Santa Cruz,Ecuador,-0.62,-90.33,Evidence Credible,Unknown
+353120,San Cristobal,Ecuador,-0.8292,-89.4292,Evidence Credible,Unknown
+354000,Quimsachata-Oroscocha,Peru,-14.131,-71.363,Eruption Dated,4450 BCE
+354001,"Auquihuato, Cerro",Peru,-15.0726,-73.1914,Evidence Uncertain,Unknown
+354003,Coropuna,Peru,-15.52,-72.65,Evidence Credible,Unknown
+354004,Andahua-Orcopampa,Peru,-15.42,-72.33,Eruption Dated,1490 CE
+354005,Huambo,Peru,-15.78,-72.08,Eruption Dated,700 BCE
+354006,Sabancaya,Peru,-15.787,-71.857,Eruption Observed,2025 CE
+354010,"Misti, El",Peru,-16.2991,-71.4056,Eruption Observed,1985 CE
+354020,Ubinas,Peru,-16.345,-70.8972,Eruption Observed,2024 CE
+354030,Huaynaputina,Peru,-16.6144,-70.8542,Eruption Observed,1600 CE
+354031,Ticsani,Peru,-16.7586,-70.5981,Eruption Dated,1800 CE
+354040,Tutupaca,Peru,-17.026,-70.372,Eruption Observed,1802 CE
+354050,Yucamane,Peru,-17.184,-70.196,Eruption Observed,1320 BCE
+354060,"Casiri, Nevados",Peru,-17.4852,-69.7886,Evidence Credible,Unknown
+355011,Taapaca,Chile,-18.1,-69.5,Eruption Dated,320 BCE
+355012,Parinacota,Chile-Bolivia,-18.166,-69.142,Eruption Dated,290 CE
+355020,Guallatiri,Chile,-18.42,-69.092,Eruption Observed,1960 CE
+355030,Isluga,Chile,-19.15,-68.83,Eruption Observed,1913 CE
+355032,Tata Sabaya,Bolivia,-19.13,-68.53,Evidence Credible,Unknown
+355040,Irruputuncu,Chile-Bolivia,-20.73,-68.55,Eruption Observed,1995 CE
+355050,Olca-Paruma,Chile-Bolivia,-20.939,-68.413,Eruption Observed,Unknown
+355090,Putana,Chile,-22.557,-67.853,Eruption Observed,1810 CE
+355091,Sairecabur,Chile-Bolivia,-22.719,-67.891,Evidence Credible,Unknown
+355092,Licancabur,Chile-Bolivia,-22.83,-67.88,Evidence Credible,Unknown
+355093,Guayaques,Chile-Bolivia,-22.895,-67.566,Evidence Credible,Unknown
+355094,Purico Complex,Chile,-23,-67.75,Evidence Credible,Unknown
+355095,Colachi,Chile,-23.236,-67.645,Evidence Credible,Unknown
+355096,Acamarachi,Chile,-23.292,-67.618,Evidence Credible,Unknown
+355098,Chiliques,Chile,-23.58,-67.7,Evidence Uncertain,Unknown
+355100,Lascar,Chile,-23.37,-67.73,Eruption Observed,2023 CE
+355101,Cordon de Puntas Negras,Chile,-23.743,-67.534,Evidence Credible,Unknown
+355102,Miniques,Chile,-23.82,-67.77,Evidence Uncertain,Unknown
+355103,"Tujle, Cerro",Chile,-23.83,-67.95,Evidence Credible,Unknown
+355104,Caichinque,Chile,-23.949,-67.74,Evidence Uncertain,Unknown
+355105,Tilocalar,Chile,-23.97,-68.13,Evidence Uncertain,Unknown
+355107,Pular,Chile,-24.188,-68.054,Evidence Uncertain,Unknown
+355108,"Negrillar, La",Chile,-24.319,-68.59,Evidence Uncertain,Unknown
+355109,Socompa,Chile-Argentina,-24.396,-68.246,Eruption Dated,5250 BCE
+355110,Llullaillaco,Chile-Argentina,-24.72,-68.53,Eruption Observed,1877 CE
+355112,Corrida de Cori Volcanic Field,Chile-Argentina,-25.083,-68.367,Evidence Uncertain,Unknown
+355120,Lastarria,Chile-Argentina,-25.168,-68.507,Evidence Credible,Unknown
+355121,Cordon del Azufre,Chile-Argentina,-25.336,-68.521,Evidence Credible,Unknown
+355122,"Bayo Gorbea, Cerro",Chile-Argentina,-25.414,-68.588,Evidence Credible,Unknown
+355123,"Nevada, Sierra",Chile-Argentina,-26.48,-68.58,Evidence Credible,Unknown
+355124,Falso Azufre,Chile-Argentina,-26.8,-68.37,Evidence Uncertain,Unknown
+355125,"Incahuasi, Nevado de",Chile-Argentina,-27.033,-68.296,Evidence Uncertain,Unknown
+355130,"Ojos del Salado, Nevados",Chile-Argentina,-27.109,-68.541,Eruption Dated,750 CE
+355131,"Solo, El",Chile-Argentina,-27.105,-68.713,Evidence Credible,Unknown
+355160,Aracar,Argentina,-24.29,-67.783,Evidence Credible,Unknown
+355161,Unnamed,Argentina,-25.078,-68.266,Evidence Credible,Unknown
+355190,"Condor, El",Argentina,-26.632,-68.361,Evidence Credible,Unknown
+355200,Peinado,Argentina,-26.623,-68.116,Evidence Credible,Unknown
+355210,"Blanco, Cerro",Argentina,-26.7657,-67.746,Eruption Dated,2300 BCE
+355220,Tipas,Argentina,-27.196,-68.561,Evidence Credible,Unknown
+356011,Rapa Nui,Chile,-27.114,-109.356,Evidence Credible,Unknown
+357010,Tupungatito,Chile-Argentina,-33.425,-69.797,Eruption Observed,1987 CE
+357020,San Jose,Chile-Argentina,-33.789,-69.895,Eruption Observed,1960 CE
+357021,Maipo,Chile-Argentina,-34.164,-69.832,Eruption Observed,1912 CE
+357022,Palomo,Chile,-34.608,-70.295,Evidence Credible,Unknown
+357023,"Atuel, Caldera del",Argentina,-34.592,-69.921,Evidence Credible,Unknown
+357024,Risco Plateado,Argentina,-34.917,-69.981,Evidence Uncertain,Unknown
+357030,Tinguiririca,Chile,-34.814,-70.352,Eruption Observed,1917 CE
+357040,Planchon-Peteroa,Chile,-35.223,-70.568,Eruption Observed,2019 CE
+357041,Infiernillo,Argentina,-35.123,-69.9,Eruption Dated,6890 BCE
+357042,Calabozos,Chile,-35.558,-70.496,Evidence Credible,Unknown
+357050,Descabezado Grande,Chile,-35.58,-70.75,Eruption Observed,1933 CE
+357060,"Azul, Cerro",Chile,-35.653,-70.761,Eruption Observed,1967 CE
+357061,"Maule, Laguna del",Chile,-36.058,-70.492,Eruption Dated,50 BCE
+357062,San Pedro-Pellado,Chile,-35.989,-70.849,Evidence Credible,Unknown
+357063,"Longavi, Nevado de",Chile,-36.1959,-71.1641,Eruption Dated,4890 BCE
+357064,"Blancas, Lomas",Chile,-36.286,-71.009,Evidence Credible,Unknown
+357065,"Resago, Volcan",Chile,-36.4606,-70.9033,Evidence Credible,Unknown
+357066,Payun Matru,Argentina,-36.422,-69.241,Eruption Dated,5050 BCE
+357070,"Chillan, Nevados de",Chile,-36.868,-71.378,Eruption Observed,2022 CE
+357072,Tromen Volcanic Plateau,Argentina,-37.144,-70.033,Eruption Observed,1822 CE
+357080,Antuco,Chile,-37.406,-71.349,Eruption Observed,1869 CE
+357090,Copahue,Chile-Argentina,-37.856,-71.183,Eruption Observed,2024 CE
+357091,Callaqui,Chile,-37.92,-71.45,Eruption Observed,1980 CE
+357093,Tolhuaca,Chile,-38.31,-71.645,Evidence Credible,4000 BCE
+357100,Lonquimay,Chile,-38.379,-71.586,Eruption Observed,1990 CE
+357102,"Blanca, Laguna",Argentina,-39.02,-70.37,Evidence Credible,Unknown
+357110,Llaima,Chile,-38.692,-71.729,Eruption Observed,2009 CE
+357111,Sollipulli,Chile,-38.97,-71.52,Eruption Dated,1240 CE
+357112,Caburgua-Huelemolle,Chile,-39.25,-71.75,Eruption Dated,5050 BCE
+357120,Villarrica,Chile,-39.42,-71.93,Eruption Observed,2025 CE
+357121,Quetrupillan,Chile,-39.496,-71.722,Eruption Dated,255 CE
+357122,Lanin,Chile-Argentina,-39.637,-71.502,Eruption Dated,560 CE
+357123,Huanquihue Group,Argentina,-39.887,-71.58,Eruption Dated,1750 CE
+357130,Mocho-Choshuenco,Chile,-39.927,-72.027,Eruption Observed,1937 CE
+357140,Carran-Los Venados,Chile,-40.35,-72.07,Eruption Observed,1979 CE
+357150,Puyehue-Cordon Caulle,Chile,-40.59,-72.117,Eruption Observed,2012 CE
+357153,Antillanca Volcanic Complex,Chile,-40.783,-72.15,Eruption Dated,230 BCE
+357160,Puntiagudo-Cordon Cenizos,Chile,-40.969,-72.264,Eruption Observed,1850 CE
+358010,Osorno,Chile,-41.105,-72.496,Eruption Observed,1869 CE
+358011,Tronador,Chile-Argentina,-41.157,-71.885,Evidence Uncertain,Unknown
+358012,Cayutue-La Vigueria,Chile,-41.3,-72.27,Eruption Dated,190 BCE
+358020,Calbuco,Chile,-41.33,-72.618,Eruption Observed,2015 CE
+358022,Yate,Chile,-41.755,-72.396,Eruption Dated,1090 CE
+358023,Hornopiren,Chile,-41.874,-72.431,Eruption Dated,340 CE
+358024,Apagado,Chile,-41.88,-72.58,Eruption Dated,590 BCE
+358025,Crater Basalt Volcanic Field,Argentina,-42.018,-70.194,Evidence Credible,Unknown
+358030,Huequi,Chile,-42.377,-72.578,Eruption Observed,1920 CE
+358040,Michinmahuida,Chile,-42.799,-72.445,Eruption Observed,1835 CE
+358041,Chaiten,Chile,-42.8349,-72.6514,Eruption Observed,2011 CE
+358049,Yanteles,Chile,-43.469,-72.782,Eruption Dated,6650 BCE
+358050,Corcovado,Chile,-43.189,-72.794,Eruption Dated,4920 BCE
+358052,Melimoyu,Chile,-44.08,-72.88,Eruption Dated,200 CE
+358053,Puyuhuapi,Chile,-44.3,-72.53,Evidence Credible,Unknown
+358054,Mentolat,Chile,-44.7,-73.08,Eruption Observed,1710 CE
+358055,Cay,Chile,-45.059,-72.984,Evidence Uncertain,Unknown
+358056,Maca,Chile,-45.1,-73.17,Eruption Dated,1560 CE
+358057,"Hudson, Cerro",Chile,-45.9,-72.97,Eruption Observed,2011 CE
+358060,Lautaro,Chile,-49.019,-73.504,Eruption Observed,1979 CE
+358062,Aguilera,Chile,-50.33,-73.75,Eruption Dated,1253 BCE
+358063,Reclus,Chile,-50.9395,-73.5802,Eruption Observed,1908 CE
+358064,Meullin,Chile,-45.22,-73.05,Evidence Credible,Unknown
+358070,"Burney, Monte",Chile,-52.33,-73.4,Eruption Observed,1910 CE
+358080,Pali-Aike Volcanic Field,Chile-Argentina,-52.082,-69.698,Eruption Dated,5550 BCE
+358090,Fueguino,Chile,-54.97,-70.262,Eruption Observed,1820 CE
+360010,Saba,Netherlands,17.63,-63.23,Eruption Observed,1640 CE
+360020,"Quill, The",Netherlands,17.478,-62.96,Eruption Dated,250 CE
+360030,Liamuiga,Saint Kitts and Nevis,17.37,-62.8,Eruption Dated,160 CE
+360040,Nevis Peak,Saint Kitts and Nevis,17.15,-62.58,Evidence Uncertain,Unknown
+360050,Soufriere Hills,United Kingdom,16.72,-62.18,Eruption Observed,2013 CE
+360060,Soufriere Guadeloupe,France,16.044,-61.664,Eruption Observed,1977 CE
+360080,"Diables, Morne aux",Dominica,15.612,-61.43,Evidence Credible,Unknown
+360090,"Diablotins, Morne",Dominica,15.503,-61.397,Evidence Uncertain,Unknown
+360100,"Trois Pitons, Morne",Dominica,15.37,-61.33,Eruption Dated,920 CE
+360101,"Watt, Morne",Dominica,15.307,-61.305,Eruption Observed,1997 CE
+360110,"Plat Pays, Morne",Dominica,15.255,-61.341,Eruption Dated,1270 CE
+360120,Pelee,France,14.809,-61.166,Eruption Observed,1932 CE
+360140,Qualibou,Saint Lucia,13.83,-61.05,Eruption Observed,1766 CE
+360150,Soufriere St. Vincent,Saint Vincent and the Grenadines,13.33,-61.18,Eruption Observed,2021 CE
+360160,Kick 'em Jenny,Grenada,12.3,-61.64,Eruption Observed,2017 CE
+360170,St. Catherine,Grenada,12.15,-61.67,Evidence Credible,Unknown
+370010,Snaefellsjokull,Iceland,64.8,-23.783,Eruption Dated,200 CE
+370020,Helgrindur,Iceland,64.866,-23.283,Evidence Credible,Unknown
+370030,Ljosufjoll,Iceland,64.9,-22.483,Eruption Dated,960 CE
+371020,Reykjanes,Iceland,63.817,-22.717,Eruption Observed,2025 CE
+371022,Eldey,Iceland,63.733,-23,Eruption Observed,1926 CE
+371030,Krysuvik-Trolladyngja,Iceland,63.917,-22.067,Eruption Observed,1340 CE
+371032,Fagradalsfjall,Iceland,63.895,-22.258,Eruption Observed,2023 CE
+371040,Brennisteinsfjoll,Iceland,63.933,-21.783,Eruption Observed,1341 CE
+371050,Hengill,Iceland,64.083,-21.416,Eruption Dated,150 CE
+371051,Hromundartindur,Iceland,64.083,-21.333,Evidence Uncertain,Unknown
+371060,Grimsnes,Iceland,64.05,-20.883,Eruption Dated,3500 BCE
+371070,Prestahnukur,Iceland,64.583,-20.666,Eruption Dated,3350 BCE
+371080,Oddnyjarhnjukur-Langjokull,Iceland,64.85,-19.7,Eruption Dated,950 CE
+371090,Hofsjokull,Iceland,64.833,-18.766,Evidence Credible,Unknown
+372010,Vestmannaeyjar,Iceland,63.416,-20.266,Eruption Observed,1973 CE
+372020,Eyjafjallajokull,Iceland,63.633,-19.633,Eruption Observed,2010 CE
+372030,Katla,Iceland,63.633,-19.083,Eruption Observed,1918 CE
+372040,Tindfjallajokull,Iceland,63.783,-19.716,Evidence Uncertain,Unknown
+372050,Torfajokull,Iceland,63.892,-19.122,Eruption Observed,1477 CE
+372070,Hekla,Iceland,63.983,-19.666,Eruption Observed,2000 CE
+373010,Grimsvotn,Iceland,64.416,-17.316,Eruption Observed,2011 CE
+373012,Thordarhyrna,Iceland,64.267,-17.617,Eruption Observed,1904 CE
+373030,Bardarbunga,Iceland,64.633,-17.516,Eruption Observed,2015 CE
+373040,Tungnafellsjokull,Iceland,64.75,-17.916,Evidence Credible,Unknown
+373050,Kverkfjoll,Iceland,64.653,-16.647,Eruption Observed,1968 CE
+373060,Askja,Iceland,65.033,-16.783,Eruption Observed,1961 CE
+373070,Fremrinamar,Iceland,65.416,-16.666,Eruption Dated,1200 BCE
+373080,Krafla,Iceland,65.715,-16.728,Eruption Observed,1984 CE
+373082,Heidarspordar,Iceland,65.583,-16.817,Eruption Dated,300 BCE
+373090,Theistareykir,Iceland,65.883,-16.967,Eruption Dated,900 BCE
+373100,Tjornes Fracture Zone,Iceland,66.309,-17.118,Eruption Observed,1868 CE
+374010,Oraefajokull,Iceland,64,-16.65,Eruption Observed,1728 CE
+374020,Esjufjoll,Iceland,64.25,-16.583,Unrest / Holocene,Unknown
+374801,Snaefell,Iceland,64.798,-15.56,Evidence Uncertain,Unknown
+375010,Kolbeinsey Ridge,Iceland,66.67,-18.5,Eruption Observed,1755 CE
+376010,Jan Mayen,Norway,71.082,-8.155,Eruption Observed,1985 CE
+377020,East Gakkel Ridge at 85°E,Undersea Features,85.608,85.25,Evidence Credible,1999 CE
+381040,Pico Fracture Zone,Undersea Features,38.75,-38.08,Eruption Observed,1865 CE
+382001,Flores,Portugal,39.462,-31.216,Eruption Dated,950 BCE
+382010,Fayal,Portugal,38.576,-28.713,Eruption Observed,1958 CE
+382020,Pico,Portugal,38.47,-28.4,Eruption Observed,1720 CE
+382030,Sao Jorge,Portugal,38.65,-28.08,Eruption Observed,1902 CE
+382040,Graciosa,Portugal,39.02,-27.97,Eruption Dated,1950 BCE
+382050,Terceira,Portugal,38.73,-27.32,Eruption Observed,2000 CE
+382070,Don Joao de Castro Bank,Portugal,38.23,-26.63,Eruption Observed,1720 CE
+382080,Sete Cidades,Portugal,37.865,-25.785,Eruption Observed,1880 CE
+382081,Picos Fissural Volcanic System,Portugal,37.78,-25.67,Eruption Observed,1652 CE
+382090,Agua de Pau,Portugal,37.77,-25.47,Eruption Observed,1564 CE
+382100,Furnas,Portugal,37.77,-25.32,Eruption Observed,1630 CE
+382110,Monaco Bank,Portugal,37.6,-25.88,Eruption Observed,1911 CE
+382120,Madeira,Portugal,32.73,-16.97,Eruption Dated,4500 BCE
+383010,La Palma,Spain,28.57,-17.83,Eruption Observed,2021 CE
+383020,Hierro,Spain,27.73,-18.03,Eruption Observed,2012 CE
+383030,Tenerife,Spain,28.271,-16.641,Eruption Observed,1909 CE
+383040,Gran Canaria,Spain,28,-15.58,Eruption Dated,40 CE
+383050,Fuerteventura,Spain,28.358,-14.02,Evidence Credible,Unknown
+383060,Lanzarote,Spain,29.03,-13.63,Eruption Observed,1824 CE
+384010,Fogo,Cabo Verde,14.95,-24.35,Eruption Observed,2015 CE
+384020,Brava,Cabo Verde,14.8514,-24.7041,Evidence Credible,Unknown
+385030,Romanche Fracture Zone,Undersea Features,-0.433,-19.596,Evidence Uncertain,Unknown
+385050,Ascension,United Kingdom,-7.9458,-14.3667,Eruption Dated,1508 CE
+385052,Walvis Ridge at 33°S,Undersea Features,-32.958,-5.22,Eruption Observed,2002 CE
+386010,Tristan da Cunha,United Kingdom,-37.092,-12.28,Eruption Observed,1962 CE
+386011,Nightingale Island,United Kingdom,-37.42,-12.48,Eruption Observed,2004 CE
+386020,Bouvet,Norway,-54.408,3.351,Eruption Dated,50 BCE
+390010,Buckle Island,Antarctica,-66.78,163.25,Eruption Observed,1899 CE
+390011,Young Island,Antarctica,-66.42,162.47,Evidence Uncertain,Unknown
+390012,Sturge Island,Antarctica,-67.4,164.83,Evidence Uncertain,Unknown
+390013,"Pleiades, The",Antarctica,-72.67,165.5,Eruption Dated,1050 BCE
+390015,Melbourne,Antarctica,-74.35,164.7,Eruption Dated,1892 CE
+390016,Unnamed,Antarctica,-76.83,163,Evidence Uncertain,Unknown
+390017,Morning,Antarctica,-78.5,163.53,Evidence Uncertain,Unknown
+390020,Erebus,Antarctica,-77.53,167.17,Eruption Observed,2025 CE
+390021,Royal Society Range,Antarctica,-78.25,163.33,Evidence Uncertain,Unknown
+390022,Berlin,Antarctica,-76.05,-136,Eruption Dated,8350 BCE
+390023,Andrus,Antarctica,-75.8,-132.33,Evidence Uncertain,Unknown
+390027,Takahe,Antarctica,-76.28,-112.08,Eruption Dated,5550 BCE
+390028,Hudson Mountains,Antarctica,-74.33,-99.42,Eruption Dated,207 BCE
+390030,Deception Island,Antarctica,-62.9567,-60.6367,Eruption Observed,1970 CE
+390031,Penguin Island,Antarctica,-62.1,-57.93,Eruption Observed,1905 CE
+390040,Bridgeman Island,Antarctica,-62.063,-56.713,Evidence Uncertain,Unknown
+390041,Paulet,Antarctica,-63.579,-55.78,Evidence Credible,Unknown
+390070,Southern Thule,United Kingdom,-59.442,-27.225,Eruption Observed,1975 CE
+390080,Bristol Island,United Kingdom,-59.017,-26.533,Eruption Observed,2016 CE
+390081,Montagu Island,United Kingdom,-58.445,-26.374,Eruption Observed,2007 CE
+390090,Saunders,United Kingdom,-57.8,-26.483,Eruption Observed,2025 CE
+390100,Candlemas Island,United Kingdom,-57.08,-26.67,Eruption Observed,1911 CE
+390110,Hodson,United Kingdom,-56.712,-27.176,Evidence Credible,Unknown
+390120,Leskov Island,United Kingdom,-56.656,-28.14,Unrest / Holocene,Unknown
+390130,Zavodovski,United Kingdom,-56.3,-27.57,Eruption Observed,2016 CE
+390140,Protector Seamounts,United Kingdom,-55.912,-28.167,Eruption Observed,1962 CE
+390829,Mount Haddington Volcanic Field,Antarctica,-64.15,-57.75,Evidence Credible,Unknown
+390847,Melville,Antarctica,-62.02,-57.67,Evidence Uncertain,Unknown
