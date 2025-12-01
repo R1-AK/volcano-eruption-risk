@@ -385,9 +385,9 @@ Challenge: Volcano covered in clouds 80% of year
 
 ## Citations
 
-[1] TEMPO.CO (Nov 24, 2025). "How Could Ethiopia's Hayli Gubbi Volcano Erupt After 12000 Years of Dormancy?" Retrieved from https://en.tempo.co/read/2068586/
+[1] TEMPO.CO (Nov 25, 2025). "How Could Ethiopia's Hayli Gubbi Volcano Erupt After 12000 Years of Dormancy?" Retrieved from https://en.tempo.co/read/2068586/how-could-ethiopias-hayli-gubbi-volcano-erupt-after-12000-years-of-dormancy
 
-[2] Antara News (Sep 26, 2025). "Indonesia's Merapi Volcano Spews 88 Lava Avalanches in a Week." Retrieved from https://en.antaranews.com/news/382897/
+[2] Antara News (Sep 26, 2025). "Indonesia's Merapi Volcano Spews 88 Lava Avalanches in a Week." Retrieved from https://en.antaranews.com/news/382897/https://en.antaranews.com/news/382897/indonesias-merapi-volcano-spews-88-lava-avalanches-in-a-week
 
 [3] Global Volcanism Program (2025). "Volcano Statistics." Smithsonian Institution. https://volcano.si.edu/
 
@@ -395,11 +395,11 @@ Challenge: Volcano covered in clouds 80% of year
 
 [5] IBM Research & ESA Φ-Lab (2025). "TerraMind Blue-Sky Challenge." https://huggingface.co/spaces/ibm-esa-geospatial/challenge
 
-[6] Brunschwiler, T., et al. (2025). "TerraMind: Foundation Model for Earth Observation with Thinking-in-Modalities." Presented at ICCV 2025. IBM Research & ESA.
+[6] Jakubik, J., et al. (2025). "TerraMind: Large-Scale Generative Multimodality for Earth Observation". IBM Research & ESA. https://arxiv.org/pdf/2504.11171v4
 
-[7] Biggs, J., et al. (2025). "Unusual eruption dynamics at Hayli Gubbi, Ethiopia." Earth & Planetary Science Letters.
+[7] Global Volcanism Program, 2025. Report on Hayli Gubbi (Ethiopia) (Sennert, S, ed.). Weekly Volcanic Activity Report, 19 November-25 November 2025. Smithsonian Institution and US Geological Survey.
 
-[8] Soldati, A. (2025). "Long-term dormancy and magma recurrence in East African volcanoes." Geochemistry, Geophysics, Geosystems.
+[8] Albino F. and Biggs J. (2021). "Magmatic Processes in the East African Rift System: Insights From a 2015–2020 Sentinel‐1 InSAR Survey." Geochemistry, Geophysics, Geosystems.
 
 ---
 
