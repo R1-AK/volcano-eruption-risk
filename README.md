@@ -11,8 +11,7 @@
 
 **Github of this project:** https://github.com/R1-AK/volcano-eruption-risk
 
-**Demo:** https://volcano-risk-aqiaxz6y2-riskakuswatis-projects.vercel.app/
-
+**Demo:** https://volcano-risk-web.vercel.app
 
 ![Picture2](https://cdn-uploads.huggingface.co/production/uploads/6858d3a6a59f871315999b21/3ZHUM-RHcrR97n0uYdapQ.jpeg)
 
